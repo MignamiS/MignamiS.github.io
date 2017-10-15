@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tabelle on WebASD</title>
-    <link>http://mignamis.github.io/tags/tabelle/</link>
+    <link>https://mignamis.github.io/tags/tabelle/</link>
     <description>Recent content in Tabelle on WebASD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Released under the MIT license&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
     <lastBuildDate>Wed, 11 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://mignamis.github.io/tags/tabelle/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mignamis.github.io/tags/tabelle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Il Medioevo dell&#39;impaginazione</title>
-      <link>http://mignamis.github.io/post/tabelle-layout/</link>
+      <link>https://mignamis.github.io/post/tabelle-layout/</link>
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mignamis.github.io/post/tabelle-layout/</guid>
+      <guid>https://mignamis.github.io/post/tabelle-layout/</guid>
       <description>&lt;p&gt;Nei &amp;ldquo;secoli bui&amp;rdquo; del web, quando ancora struttura e stile condividevano lo stesso documento, venivano usate le tabelle per gestire il layout della pagina.
 Ancora oggi si possono trovare porzioni di pagina che utilizzano una tabella per posizionare gli elementi secondo un certo schema.&lt;/p&gt;
 
@@ -28,10 +28,10 @@ Ancora oggi si possono trovare porzioni di pagina che utilizzano una tabella per
     
     <item>
       <title>Una tabella senza intestazione è come una barca senza il timone</title>
-      <link>http://mignamis.github.io/post/tabelle-intestazione/</link>
+      <link>https://mignamis.github.io/post/tabelle-intestazione/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mignamis.github.io/post/tabelle-intestazione/</guid>
+      <guid>https://mignamis.github.io/post/tabelle-intestazione/</guid>
       <description>&lt;p&gt;Rendere accessibile una tabella è semplice e bastano poche righe di codice.
 Se si trascura questo dettaglio un elenco di dati può diventare un ammasso di numeri e scritte senza nessuna forma, completamente illeggibile.&lt;/p&gt;
 

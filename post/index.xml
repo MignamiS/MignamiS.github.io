@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on WebASD</title>
-    <link>http://mignamis.github.io/post/</link>
+    <link>https://mignamis.github.io/post/</link>
     <description>Recent content in Posts on WebASD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Released under the MIT license&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
     <lastBuildDate>Wed, 11 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://mignamis.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mignamis.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Il Medioevo dell&#39;impaginazione</title>
-      <link>http://mignamis.github.io/post/tabelle-layout/</link>
+      <link>https://mignamis.github.io/post/tabelle-layout/</link>
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mignamis.github.io/post/tabelle-layout/</guid>
+      <guid>https://mignamis.github.io/post/tabelle-layout/</guid>
       <description>&lt;p&gt;Nei &amp;ldquo;secoli bui&amp;rdquo; del web, quando ancora struttura e stile condividevano lo stesso documento, venivano usate le tabelle per gestire il layout della pagina.
 Ancora oggi si possono trovare porzioni di pagina che utilizzano una tabella per posizionare gli elementi secondo un certo schema.&lt;/p&gt;
 
@@ -28,10 +28,10 @@ Ancora oggi si possono trovare porzioni di pagina che utilizzano una tabella per
     
     <item>
       <title>Svelato l&#39;arcano</title>
-      <link>http://mignamis.github.io/post/a11y/</link>
+      <link>https://mignamis.github.io/post/a11y/</link>
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mignamis.github.io/post/a11y/</guid>
+      <guid>https://mignamis.github.io/post/a11y/</guid>
       <description>&lt;p&gt;Leggendo articoli e materiale sull&amp;rsquo;accessibilità capita talvolta di imbattersi in una parola: &lt;strong&gt;a11y&lt;/strong&gt;.
 Si tratta di un codice segreto alla Dan Brown che solamente pochi eletti possono capire?&lt;/p&gt;
 
@@ -40,10 +40,10 @@ Si tratta di un codice segreto alla Dan Brown che solamente pochi eletti possono
     
     <item>
       <title>Fare in modo che il campo di ricerca non vada cercato</title>
-      <link>http://mignamis.github.io/post/search-landmark/</link>
+      <link>https://mignamis.github.io/post/search-landmark/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mignamis.github.io/post/search-landmark/</guid>
+      <guid>https://mignamis.github.io/post/search-landmark/</guid>
       <description>&lt;p&gt;Chi come me fa fatica a saltare da una parte all&amp;rsquo;altra di un sito, cercando di decifrare la logica dell&amp;rsquo;organizzazione delle informazioni, spesso utilizza Google per arrivare alla pagina che gli interessa.
 Basta digitare poche parole chiave e, solitamente, il primo risultato della ricerca è quello desiderato.&lt;/p&gt;
 
@@ -57,10 +57,10 @@ Così si introducono motori di ricerca interni, ma come fare a renderli verament
     
     <item>
       <title>Costruire link adatti</title>
-      <link>http://mignamis.github.io/post/link/</link>
+      <link>https://mignamis.github.io/post/link/</link>
       <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mignamis.github.io/post/link/</guid>
+      <guid>https://mignamis.github.io/post/link/</guid>
       <description>&lt;p&gt;Una delle componenti base dell&amp;rsquo;accessibilità di un sito web è la navigazione in esso.
 I &lt;strong&gt;link&lt;/strong&gt; permettono di spostarci da una parte all&amp;rsquo;altra, ma quando sono ambigui possono creare vere e proprie barriere persino ad utenti esperti.&lt;/p&gt;
 
@@ -74,10 +74,10 @@ Confondere l&amp;rsquo;utente per questi siti è la prassi così &lt;strong&gt;C
     
     <item>
       <title>Una tabella senza intestazione è come una barca senza il timone</title>
-      <link>http://mignamis.github.io/post/tabelle-intestazione/</link>
+      <link>https://mignamis.github.io/post/tabelle-intestazione/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mignamis.github.io/post/tabelle-intestazione/</guid>
+      <guid>https://mignamis.github.io/post/tabelle-intestazione/</guid>
       <description>&lt;p&gt;Rendere accessibile una tabella è semplice e bastano poche righe di codice.
 Se si trascura questo dettaglio un elenco di dati può diventare un ammasso di numeri e scritte senza nessuna forma, completamente illeggibile.&lt;/p&gt;
 
