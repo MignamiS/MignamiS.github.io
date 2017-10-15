@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>Una tabella senza intestazione è come una barca senza il timone&middot; WebASD</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="Simone Mignami">
+	<meta name="description" content="Consigli utili per un web accessibile.">
+	<meta name="keywords" content="accessibilità, web, tecnologia, WAI-ARIA, HTML5, screen reader">
+	<meta name="generator" content="Hugo 0.25.1" />
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="http://mignamis.github.iocss/main.css">
+	<link rel="stylesheet" href="http://mignamis.github.iocustom.css">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="http://mignamis.github.iofavicon.ico" type="image/x-icon">
+
+	<!-- RSS -->
+	
+
+	<!-- Font Awesome -->
+	<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js"></script>
+	<script>hljs.initHighlightingOnLoad();</script>
+</head>
+
+<body>
+	<header class="site-header">
+	<div class="branding">
+		<a href="http://mignamis.github.io">
+		<img class="avatar" src="http://mignamis.github.ioimg/logo.png" alt=""/>
+		</a>
+		<h1 class="site-title">
+			<a href="http://mignamis.github.io">WebASD</a>
+		</h1>
+	</div>
+	<nav class="site-nav">
+		<ul>
+			<li><a href="/about/"> Chi sono </a></li><li><a href="/why/"> Perché </a></li>
+
+			<li class="icon">
+	<a href="http://mignamis.github.io" title="">
+		<i class="fa fa-fw fa-home"></i>
+	</a>
+</li>
+
+<li class="icon">
+	<a href="http://mignamis.github.ioindex.xml" title="Subcribe">
+		<i class="fa fa-fw fa-rss"></i>
+	</a>
+</li>
+
+<li class="icon">
+	<a href="mailto:simone.mig29@gmail.com" title="Email">
+		<i class="fa fa-fw fa-envelope"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</ul>
+	</nav>
+</header>
+
+
+	<div class="content">
+	<article>
+		<header>
+			<h1 class="title">Una tabella senza intestazione è come una barca senza il timone</h1>
+			<p class="meta">
+	October 6, 2017 &middot; 4  minuti necessari per leggere
+
+	
+		&middot; Tags:
+			<a href="http://mignamis.github.iotags/semantica">semantica</a>
+			, <a href="http://mignamis.github.iotags/stile">stile</a>
+			, <a href="http://mignamis.github.iotags/tabelle">tabelle</a>
+			
+</p>
+
+		</header>
+
+		<section class="post-content">
+			<p>Rendere accessibile una tabella è semplice e bastano poche righe di codice.
+Se si trascura questo dettaglio un elenco di dati può diventare un ammasso di numeri e scritte senza nessuna forma, completamente illeggibile.</p>
+
+<p>In questo articolo approfondiremo le tabelle e il modo per renderle accessibili a tutti: dagli screen reader ai motori  di ricerca.</p>
+
+<p></p>
+
+<p>Una tabella è composta, come minimo, da due parti: l&rsquo;<strong>intestazione</strong> e i <strong>dati</strong>.
+Prendiamo ad esempio questa <a href="https://it.wikipedia.org/wiki/Sistema_solare">tabella sul Sistema solare</a>
+che ho trovato su Wikipedia.</p>
+
+<table>
+<thead>
+<tr>
+<th>Pianeta</th>
+<th>Distanza media (milioni di km)</th>
+<th>Perielio (milioni di km)</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Mercurio</td>
+<td>57,91</td>
+<td>46</td>
+</tr>
+
+<tr>
+<td>Venere</td>
+<td>108</td>
+<td>107,5</td>
+</tr>
+
+<tr>
+<td>Terra</td>
+<td>149,6</td>
+<td>147,1</td>
+</tr>
+
+<tr>
+<td>Marte</td>
+<td>227,94</td>
+<td>206,6</td>
+</tr>
+</tbody>
+</table>
+
+<p>Le due parti sono ben definite e trovare la distanza media del nostro pianeta è solo questione di incrociare la riga della Terra con la colonna della distanza.
+Ecco invece come appare una tabella non accessibile quando viene letta da uno screen reader.</p>
+
+<div class="screen-reader-container">
+	<span class="fa fa-volume-up screen-reader-icon" style="font-size: 3em;" aria-label="screen reader"></span>
+	<p class="screen-reader-text"><em>Pianeta Distanza media (milioni di km) Perielio (milioni di km) Mercurio 57,91 46 Venere 108 107,5 Terra 149,6 147,1 Marte 227,94 206,6 ...</em></p>
+</div>
+
+<p>Immagina di dover estrapolare lo stesso dato da una sequenza come questa&hellip;</p>
+
+<h2 id="come-rendere-accessibile-una-tabella">Come rendere accessibile una tabella</h2>
+
+<p>Per rendere accessibile una tabella è sufficiente aggiungere l&rsquo;<strong>intestazione</strong> (<em>header</em>).
+Grazie all&rsquo;intestazione possiamo dare una forma ai dati anche se questi vengono letti sequenzialmente.
+Questo perché uno screen reader è in grado di determinare programmaticamente l&rsquo;etichetta associata alla cella che intende leggere, in modo da annunciare prima a quale colonna corrisponde.</p>
+
+<p>Se ad esempio volessi trovare la distanza media di Venere nella tabella di prima, raggiungo la riga muovendomi verticalmente. Poi mi sposto a destra e la voce annuncia.</p>
+
+<div class="screen-reader-container">
+	<span class="fa fa-volume-up screen-reader-icon" style="font-size: 3em;" aria-label="screen reader"></span>
+	<p class="screen-reader-text"><em>Distanza media (milioni di km) 108</em></p>
+</div>
+
+<p>In questo modo anche tabelle enormi possono essere navigate con facilità.</p>
+
+<h3 id="il-codice">Il codice</h3>
+
+<p>Questo è il codice per generare la tabella con le informazioni dei pianeti:</p>
+
+<pre><code class="language-html">&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Pianeta&lt;/th&gt;
+        &lt;th&gt;Distanza media&lt;/th&gt;
+        &lt;th&gt;Perielio&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Mercurio&lt;/td&gt;
+        &lt;td&gt;57,91&lt;/td&gt;
+        &lt;td&gt;46&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Venere&lt;/td&gt;
+        &lt;td&gt;108&lt;/td&gt;
+        &lt;td&gt;107,5&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt; 
+</code></pre>
+
+<p>La parte più importante è rappresentata dalla prima riga (<em>TR</em>): essa contiene le celle dichiarate come <em>TH</em>, cioè <em>table header</em>.
+Questo permette di determinare programmaticamente:</p>
+
+<ol>
+<li>La struttura della tabella, in questo caso <strong>verticale</strong>. In questo modo anche una macchina sarà consapevole che la prima colonna è composta da nomi di pianeti.</li>
+<li>L&rsquo;etichetta della colonna è &ldquo;Pianeta&rdquo; e verrà annunciata tutte le volte che un utente che naviga utilizzando uno screen reader ci entrerà.</li>
+</ol>
+
+<p>Nota che non è necessario indicare come header anche la colonna dei pianeti: questo perché quando un utente si muove di riga in riga tenderà già a spostarsi nella prima colonna e saprà che, muovendosi lateralmente, i dati sono relativi a quello specifico pianeta.</p>
+
+<p>Per quanto riguarda le <strong>tabelle orizzontali</strong> il discorso è analogo: cambia solamente l&rsquo;ordine dei tag:</p>
+
+<pre><code class="language-html">&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Nome&lt;/th&gt;
+        &lt;td&gt;Alberto&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Cognome&lt;/th&gt;
+        &lt;td&gt;Lupo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Età&lt;/th&gt;
+        &lt;td&gt;35&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt; 
+</code></pre>
+
+<p>Questo codice produce una tabella di 2 colonne che, se navigata verticalmente risulta così annunciata:</p>
+
+<div class="screen-reader-container">
+	<span class="fa fa-volume-up screen-reader-icon" style="font-size: 3em;" aria-label="screen reader"></span>
+	<p class="screen-reader-text"><em>Nome Alberto Cognome Lupo Età 35</em></p>
+</div>
+
+<p>Maggiori <a href="https://www.w3.org/WAI/tutorials/tables/one-header/">informazioni sulle tabelle</a> sul sito della W3c.</p>
+
+<h2 id="lo-stile-dell-intestazione">Lo stile dell&rsquo;intestazione</h2>
+
+<p>Aggiungere il tag <strong>TH</strong> permette di agevolare la creazione dello stile della tabella.
+Non è necessario, infatti, attribuire classi differenti alla prima riga per poter modificare dimensioni o allineamento del font dell&rsquo;intestazione.</p>
+
+<p>Già per default le celle marcate come <em>th</em> hanno uno stile differente.
+Inoltre avendo un tag diverso rispetto alle celle con i dati, è possibile sfruttarlo come selettore nel CSS.</p>
+
+<pre><code class="language-css">td {
+  ...
+}
+
+th {
+  ...
+}
+</code></pre>
+
+<h2 id="didascalia">Didascalia</h2>
+
+<p>Aggiungere una didascalia (<em>caption</em>) ad una tabella può essere conveniente: in primo luogo permette di agevolare gli utenti nell&rsquo;interpretazione dei dati contenuti.
+Questo si applica bene all&rsquo;esempio dei pianeti: una delle colonne che non ho copiato, per semplificare l&rsquo;esempio, conteneva un&rsquo;unità di misura chiamata UA (Unità Astronomica).
+Se avessi inserito la forma per esteso nell&rsquo;etichetta della colonna, questa sarebbe risultata troppo lunga.</p>
+
+<pre><code class="language-html">&lt;table&gt;
+    &lt;caption&gt;Elenco dei pianeti nel sistema solare con le rispettive distanze. L'unità di misura UA è un'abbreviazione per Unità Astronomica.&lt;/caption&gt;
+    ...
+&lt;/table&gt;
+</code></pre>
+
+<p>Inoltre semanticamente è più corretto inserire le informazioni inerenti alla tabella nella didascalia.
+Questo crea una relazione esplicita che è determinata programmaticamente da una macchina.
+Siccome il tag <em>caption</em> si trova all&rsquo;interno del tag <em>table</em> si crea una relazione di parentela fra il contenuto della tabella e della didascalia.</p>
+
+<p><strong>Nota</strong>: la didascalia deve contenere qualche manciata di parole, non paragrafi interi.
+L&rsquo;analisi e la spiegazione dei dati vanno messe nella pagina.</p>
+
+<p>Infine per facilitare la comprensione della tabella sarebbe utile inserire la didascalia appena dopo l&rsquo;apertura del tag <em>table</em>.
+In questo modo verrà posizionata prima della tabella e non sotto di essa, dove sarà letta per ultima.</p>
+
+<p>Queste informazioni si applicano anche al tag <em>figure</em>.</p>
+
+<h2 id="conclusioni">Conclusioni</h2>
+
+<p>Una tabella senza header è poco accessibile e anche i motori di ricerca potrebbero soffrirne dato che non è possibile determinare programmaticamente le relazioni di questi dati.
+Indicando semplicemente quale cella è l&rsquo;intestazione della colonna permette di rendere un ammasso informe di dati una struttura ben organizzata e comprensibile.</p>
+
+			
+				<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "webasd" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+			
+		</section>
+	</article>
+	</div>
+
+	<footer class="site-footer">
+	<p class="text">&copy; 2017 - Released under the MIT license<br>Powered by <a href="//gohugo.io/">Hugo</a> with the <a href="//github.com/digitalcraftsman/hugo-type-theme">Type Theme</a></p>
+</footer>
+
+
+</body>
+</html>

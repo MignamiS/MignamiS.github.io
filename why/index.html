@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>Perché&middot; WebASD</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="Simone Mignami">
+	<meta name="description" content="Consigli utili per un web accessibile.">
+	<meta name="keywords" content="accessibilità, web, tecnologia, WAI-ARIA, HTML5, screen reader">
+	<meta name="generator" content="Hugo 0.25.1" />
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="http://mignamis.github.iocss/main.css">
+	<link rel="stylesheet" href="http://mignamis.github.iocustom.css">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="http://mignamis.github.iofavicon.ico" type="image/x-icon">
+
+	<!-- RSS -->
+	
+
+	<!-- Font Awesome -->
+	<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js"></script>
+	<script>hljs.initHighlightingOnLoad();</script>
+</head>
+
+<body>
+	<header class="site-header">
+	<div class="branding">
+		<a href="http://mignamis.github.io">
+		<img class="avatar" src="http://mignamis.github.ioimg/logo.png" alt=""/>
+		</a>
+		<h1 class="site-title">
+			<a href="http://mignamis.github.io">WebASD</a>
+		</h1>
+	</div>
+	<nav class="site-nav">
+		<ul>
+			<li><a href="/about/"> Chi sono </a></li><li><a href="/why/"> Perché </a></li>
+
+			<li class="icon">
+	<a href="http://mignamis.github.io" title="">
+		<i class="fa fa-fw fa-home"></i>
+	</a>
+</li>
+
+<li class="icon">
+	<a href="http://mignamis.github.ioindex.xml" title="Subcribe">
+		<i class="fa fa-fw fa-rss"></i>
+	</a>
+</li>
+
+<li class="icon">
+	<a href="mailto:simone.mig29@gmail.com" title="Email">
+		<i class="fa fa-fw fa-envelope"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</ul>
+	</nav>
+</header>
+
+
+	<div class="content">
+	<article>
+		<header>
+			<h1 class="title">Perché</h1>
+			<p class="meta">
+	October 14, 2017 &middot; 3  minuti necessari per leggere
+
+	
+</p>
+
+		</header>
+
+		<section class="post-content">
+			
+
+<h1 id="perché-l-accessibilità">Perché l&rsquo;accessibilità?</h1>
+
+<p>La domanda che più spesso mi viene posta quando mi capita di parlare di accessibilità a degli sviluppatori è proprio &ldquo;<em>perché uno dovrebbe spendere tempo per l&rsquo;accessibilità?</em>&rdquo;.
+In questa pagina ho sintetizzato alcune delle spiegazioni che porto per convincere anche i più scettici, soprattutto coloro che fanno del web il loro business.</p>
+
+<h2 id="l-accessibilità-riguarda-pure-te">L&rsquo;accessibilità riguarda pure te</h2>
+
+<p>Esistono 3 motivi che di solito porto per convincere le persone che l&rsquo;accessibilità riguarda tutti e non solo le persone con handicap.</p>
+
+<p>In primo luogo in alcune nazioni i siti web legati alla Pubblica amministrazione devono essere certificati per essere accessibili.
+Le aziende private, invece, godono ancora di una certa libertà, ma sempre di più si mostrano sensibili al web senza barriere per una questione di immagine.</p>
+
+<p>In secondo luogo occorre tener presente che spesso le persone con handicap si appoggiano a delle tecnologie assistive, cioé software o hardware specifici.
+Potremmo definirle delle &ldquo;macchine&rdquo; e, oltre ad esse c&rsquo;é un&rsquo;altra categoria di &ldquo;macchine&rdquo; molto preziosa che ogni tanto si fa un giro nei nostri siti web: <strong>gli spider dei motori di ricerca</strong>.
+Ebbene, migliorare l&rsquo;accessibilità di un sito web significa agevolare il lavoro di Google, che porta tangibili <strong>benefici alla SEO</strong> delle pagine.</p>
+
+<p>Ma la motivazione più forte la tengo sempre per ultima e prima di sottoporla al mio audience solitamente faccio questa domanda: quanti utenti con disabilità, in percentuale, credete che hanno a che fare con le vostre pagine web?
+L&rsquo;Organizzazione mondiale della sanità stima che la percentuale di persone con handicap al mondo si aggiri attorno al 15%.
+Ma questo valore in realtà è una sottostima, infatti tiene conto solo di quella fetta di disabilità che possiamo chiamare <strong>permanente</strong>.</p>
+
+<p>Esistono altre 2 forme di disabilità che fanno lievitare la percentuale di utenti che necessitano di pagine web accessibili.
+In primo luogo le <strong>disabilità temporanee</strong>. Ecco alcuni esempi:</p>
+
+<ul>
+<li>Un polso rotto o una tendinite possono impedire di utilizzare correttamente il mouse o la tastiera.</li>
+<li>Sottoporsi ad un trattamento agli occhi che inibisce per alcuni giorni la vista.</li>
+<li>Il touchpad del portatile è rotto.</li>
+</ul>
+
+<p>Vi sono poi le <strong>disabilità situazionali</strong>, ovvero quelle dovute ad una condizione legata a fattori esterni:</p>
+
+<ul>
+<li>Utilizzare lo smartphone sotto al sole riduce notevolmente la visibilità dello schermo.</li>
+<li>Il rumore del traffico o di una stanza rumorosa impedisce di ascoltare l&rsquo;audio di un video.</li>
+<li>Adoperare il cellulare con in braccio un bambino o delle borse con la spesa.</li>
+<li>Essere esausti dopo una giornata di lavoro a volte rende difficile decifrare anche una lista della spesa.</li>
+</ul>
+
+<p>Una frase molto significativa che ho letto da qualche parte riporta:</p>
+
+<blockquote>
+<p>Qualsiasi utente su dispositivo mobile è da considerarsi disabile.</p>
+</blockquote>
+
+<p>Siccome chiunque può trovarsi in una delle situazioni citate prima, si può affermare che <strong>tutti gli utenti necessitano di pagine web accessibili</strong>.</p>
+
+<h2 id="cosa-occorre-per-l-accessibilità">Cosa occorre per l&rsquo;accessibilità</h2>
+
+<p>Siccome è un argomento poco trattato, sia in ambito formativo che nel web, la gente è portata a pensare che per ottimizzare l&rsquo;accessibilità di una pagina web occorrano linguaggi particolari o, peggio, librerie esterne.
+<strong>Niente di più sbagliato</strong>; se la pagina è costruita utilizzando tecnologie standard come HTML, CSS e Javascript, tutto quello che occorre è:</p>
+
+<ul>
+<li>Alcune conoscenze delle nozioni di accessibilità, che trovi su questo sito;</li>
+<li>Qualche riga di codice, quando va male.</li>
+</ul>
+
+<p>Non servono strane tecnologie, quando è stato studiato lo standard per HTML5 l&rsquo;accessibilità è stata presa in considerazione e inclusa all&rsquo;interno delle specifiche, in modo che sia gli user agent che le tecnologie assistive potessero appoggiarsi.
+Per cui è necessario applicare le linee guida del linguaggio stesso per ottimizzare le pagine web.</p>
+
+<p>TODO terminare riassunto su ARIA e trovare qualche referenza</p>
+
+<p>TODO terminare</p>
+
+<p>Ecco quindi perché quando è stato realizzato lo standard per il web si è data molta importanza all&rsquo;accessibilità.
+Grazie a questo lavoro è oggi possibile <strong>fare tanto con poco</strong>.</p>
+
+
+			
+		</section>
+	</article>
+	</div>
+
+	<footer class="site-footer">
+	<p class="text">&copy; 2017 - Released under the MIT license<br>Powered by <a href="//gohugo.io/">Hugo</a> with the <a href="//github.com/digitalcraftsman/hugo-type-theme">Type Theme</a></p>
+</footer>
+
+
+</body>
+</html>

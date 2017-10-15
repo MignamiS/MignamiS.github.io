@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on WebASD</title>
+    <link>http://mignamis.github.io/tags/</link>
+    <description>Recent content in Tags on WebASD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Released under the MIT license&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
+    <lastBuildDate>Wed, 11 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mignamis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curiosità</title>
+      <link>http://mignamis.github.io/tags/curiosit%C3%A0/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mignamis.github.io/tags/curiosit%C3%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landmark</title>
+      <link>http://mignamis.github.io/tags/landmark/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mignamis.github.io/tags/landmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layout</title>
+      <link>http://mignamis.github.io/tags/layout/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mignamis.github.io/tags/layout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Link</title>
+      <link>http://mignamis.github.io/tags/link/</link>
+      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mignamis.github.io/tags/link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ricerca</title>
+      <link>http://mignamis.github.io/tags/ricerca/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mignamis.github.io/tags/ricerca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role</title>
+      <link>http://mignamis.github.io/tags/role/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mignamis.github.io/tags/role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantica</title>
+      <link>http://mignamis.github.io/tags/semantica/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mignamis.github.io/tags/semantica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stile</title>
+      <link>http://mignamis.github.io/tags/stile/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mignamis.github.io/tags/stile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tabelle</title>
+      <link>http://mignamis.github.io/tags/tabelle/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mignamis.github.io/tags/tabelle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,2 +1,0 @@
-# MignamiS.github.io
-Website

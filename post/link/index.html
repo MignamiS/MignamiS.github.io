@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>Costruire link adatti&middot; WebASD</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="Simone Mignami">
+	<meta name="description" content="Consigli utili per un web accessibile.">
+	<meta name="keywords" content="accessibilità, web, tecnologia, WAI-ARIA, HTML5, screen reader">
+	<meta name="generator" content="Hugo 0.25.1" />
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="http://mignamis.github.iocss/main.css">
+	<link rel="stylesheet" href="http://mignamis.github.iocustom.css">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="http://mignamis.github.iofavicon.ico" type="image/x-icon">
+
+	<!-- RSS -->
+	
+
+	<!-- Font Awesome -->
+	<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js"></script>
+	<script>hljs.initHighlightingOnLoad();</script>
+</head>
+
+<body>
+	<header class="site-header">
+	<div class="branding">
+		<a href="http://mignamis.github.io">
+		<img class="avatar" src="http://mignamis.github.ioimg/logo.png" alt=""/>
+		</a>
+		<h1 class="site-title">
+			<a href="http://mignamis.github.io">WebASD</a>
+		</h1>
+	</div>
+	<nav class="site-nav">
+		<ul>
+			<li><a href="/about/"> Chi sono </a></li><li><a href="/why/"> Perché </a></li>
+
+			<li class="icon">
+	<a href="http://mignamis.github.io" title="">
+		<i class="fa fa-fw fa-home"></i>
+	</a>
+</li>
+
+<li class="icon">
+	<a href="http://mignamis.github.ioindex.xml" title="Subcribe">
+		<i class="fa fa-fw fa-rss"></i>
+	</a>
+</li>
+
+<li class="icon">
+	<a href="mailto:simone.mig29@gmail.com" title="Email">
+		<i class="fa fa-fw fa-envelope"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</ul>
+	</nav>
+</header>
+
+
+	<div class="content">
+	<article>
+		<header>
+			<h1 class="title">Costruire link adatti</h1>
+			<p class="meta">
+	October 7, 2017 &middot; 4  minuti necessari per leggere
+
+	
+		&middot; Tags:
+			<a href="http://mignamis.github.iotags/link">link</a>
+			
+</p>
+
+		</header>
+
+		<section class="post-content">
+			<p>Una delle componenti base dell&rsquo;accessibilità di un sito web è la navigazione in esso.
+I <strong>link</strong> permettono di spostarci da una parte all&rsquo;altra, ma quando sono ambigui possono creare vere e proprie barriere persino ad utenti esperti.</p>
+
+<p>Un esempio? Prova a scaricare uno di quei software gratuiti ed evitare tutti i banner pubblicitari che ti dicono &ldquo;scarica!&rdquo; e &ldquo;download&rdquo;.
+Confondere l&rsquo;utente per questi siti è la prassi così <strong>CASUALMENTE</strong> prima di trovare quello che cerca si fa un bel giretto e fa guadagnare soldi al gestore.</p>
+
+<p>Ma tu non sei uno di questi gestori disonesti, vero? VERO??? Bene, ecco qualche suggerimento per creare dei link che siano accessibili.</p>
+
+<p></p>
+
+<p>Una persona con problemi di vista, come un utente cieco ad esempio, ha diversi strumenti che gli agevolano la navigazione in una pagina.
+<a href="https://www.nvaccess.org/">NVDA</a>
+permette di saltare da un link all&rsquo;altro, oppure di averne un elenco sotto forma di lista.
+Il problema è che se un link non ha un&rsquo;etichetta chiara, comprensibile anche fuori dal contesto, la persona potrebbe non capire lo scopo.</p>
+
+<p>Ad esempio ecco come appare una pagina web con dei link come questi:</p>
+
+<ul>
+<li>Clicca <a href="#">qui</a> per leggere l&rsquo;articolo</li>
+<li><a href="#">scarica</a> il programma in PDF</li>
+</ul>
+
+<figure style="margin-top: 2em; margin-botton: 2.5em; text-align: center;">
+	
+	<img src="http://mignamis.github.ioimg/screenshot-lista-link.png" alt="Schermata di NVDA con l&#39;elenco dei link di una pagina." class="img img-responsive" style="display: block; margin: auto"/>
+	
+	
+</figure>
+
+
+<p>Il &ldquo;qui&rdquo; è ambiguo, l&rsquo;utente è costretto a leggere quello che gli sta attorno per cercare di capire a cosa serva.
+E magari ha anche qualche possibilità di farcela, ma uno spider di Google?
+Per una buona <em>Search Engine Optimization</em> (SEO) è opportuno che il testo dei link sia chiaro.</p>
+
+<h2 id="un-buon-modo-per-scrivere-l-etichetta-di-un-link">Un buon modo per scrivere l&rsquo;etichetta di un link</h2>
+
+<p>Il modo migliore per costruire link accessibili è proprio scrivendo delle etichette chiare.
+Immagina di prendere tutti i link e di metterli in una pagina separata: sono tutti sufficientemente comprensibili?</p>
+
+<p>Ad esempio possiamo scrivere:</p>
+
+<ul>
+<li>Clicca qui per <a href="#">scaricare il programma</a>.</li>
+<li>Leggi questo <a href="#">articolo riguardo l&rsquo;accessibilità</a>.</li>
+</ul>
+
+<p>Questo porta diversi benefici:</p>
+
+<ol>
+<li>Il link indica in modo esplicito dove porta e migliora accessibilità e SEO.</li>
+<li>L&rsquo;area cliccabile è più estesa rendendolo più facile da attivare, soprattutto per utenti mobile o con difficoltà motorie.</li>
+<li>Fa risaltare il testo invogliando il lettore a cliccare.</li>
+</ol>
+
+<p>Da notare che sarebbe meglio evitare di inserire un URL come testo di un link, ad esempio <a href="http://www.example.com">http://www.example.com</a>.
+L&rsquo;etichetta deve essere leggibile da un essere umano.</p>
+
+<h2 id="link-brevi-per-natura">Link brevi per natura</h2>
+
+<p>Come la mettiamo con i link della <em>pagination</em>? O con un elenco alfabetico dove ogni link possiede un&rsquo;etichetta di una lettera sola?</p>
+
+<figure style="margin-top: 2em; margin-botton: 2.5em; text-align: center;">
+	
+	<img src="http://mignamis.github.ioimg/example-pagination.png" alt="Esempio di pagination" class="img img-responsive" style="display: block; margin: auto"/>
+	
+	
+</figure>
+
+
+<p>In realtà proprio nella loro incomprensibilità sono chiari, perché l&rsquo;utente intuisce che si tratta di un elenco di elementi correlati.</p>
+
+<p>Una buona prassi è espandere l&rsquo;area cliccabile in modo che non vengano attivati link vicini per errore.
+Questo è particolarmente gradito da utenti con difficoltà motorie, oltre che da tutti coloro che utilizzano uno smartphone.</p>
+
+<h3 id="immagini-con-link">Immagini con link</h3>
+
+<p>Quando un link contiene un&rsquo;immagine, l&rsquo;etichetta sarà il testo alternativo dell&rsquo;immagine stessa.
+Questo vale anche per i bottoni.</p>
+
+<pre><code class="language-html">&lt;a href=&quot;#&quot;&gt;
+    &lt;img src=&quot;img/freccia.png&quot; alt=&quot;Vai&quot;&gt;
+&lt;/a&gt;
+</code></pre>
+
+<p>Così quando la sintesi vocale arriverà sul link annuncerà &ldquo;Vai&rdquo;.</p>
+
+<p><strong>Da evitare</strong> sono le ASCII-art perché sono comprensibili solo agli utenti dotati di vista (e gli spider dei motori di ricerca non lo sono).
+Nell&rsquo;esempio della pagination visto prima i link per &ldquo;precedente&rdquo; e &ldquo;successivo&rdquo; sono stati rimpiazzati con i caratteri <code>&lt;</code> e <code>&gt;</code>.
+Se vuoi inserire una freccia in un link, invece di usare i caratteri della tastiera puoi usare una delle icone di <a href="https://www.w3schools.com/icons/fontawesome_icons_directional.asp">Font Awesome</a>
+inserendo un testo alternativo che venga letto alle tecnologie assistive.</p>
+
+<pre><code class="language-html">&lt;a href=&quot;#&quot;&gt;
+    &lt;span class=&quot;fa fa-arrow-right&quot; title=&quot;Vai&quot;&gt;&lt;/span&gt; 
+&lt;/a&gt;
+</code></pre>
+
+<p>In questo caso ho utilizzato l&rsquo;attributo <em>title</em>, ma è anche possibile inserire il testo direttamente nello <em>span</em> e poi, tramite CSS, spostarlo fuori dallo schermo per renderlo invisibile agli utenti.</p>
+
+<h2 id="conclusioni">Conclusioni</h2>
+
+<p>Avere dei link chiari in una pagina porta diversi benefici.
+In primo luogo sono accessibili, rendendo la navigazione piacevole e senza &ldquo;colpi di scena&rdquo;.
+In secondo luogo vengono sostenuti i motori di ricerca (SEO) nel loro lavoro di indicizzazione delle nostre pagine.
+Infine un&rsquo;etichetta più grande è facile da premere, cosa che avvantaggia gli utenti mobile e tutti coloro che hanno difficoltà motorie.</p>
+
+<p>Qualche secondo in più di lavoro è sicuramente un buon investimento.</p>
+
+			
+				<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "webasd" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+			
+		</section>
+	</article>
+	</div>
+
+	<footer class="site-footer">
+	<p class="text">&copy; 2017 - Released under the MIT license<br>Powered by <a href="//gohugo.io/">Hugo</a> with the <a href="//github.com/digitalcraftsman/hugo-type-theme">Type Theme</a></p>
+</footer>
+
+
+</body>
+</html>
