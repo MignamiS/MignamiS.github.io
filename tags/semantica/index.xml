@@ -6,7 +6,6 @@
     <description>Recent content in Semantica on WebASD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>Released under the MIT license&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
     <lastBuildDate>Sun, 08 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mignamis.github.io/tags/semantica/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +13,10 @@
     
     <item>
       <title>Fare in modo che il campo di ricerca non vada cercato</title>
-      <link>https://mignamis.github.io/post/search-landmark/</link>
+      <link>https://mignamis.github.io/2017/10/fare-in-modo-che-il-campo-di-ricerca-non-vada-cercato/</link>
       <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mignamis.github.io/post/search-landmark/</guid>
+      <guid>https://mignamis.github.io/2017/10/fare-in-modo-che-il-campo-di-ricerca-non-vada-cercato/</guid>
       <description>&lt;p&gt;Chi come me fa fatica a saltare da una parte all&amp;rsquo;altra di un sito, cercando di decifrare la logica dell&amp;rsquo;organizzazione delle informazioni, spesso utilizza Google per arrivare alla pagina che gli interessa.
 Basta digitare poche parole chiave e, solitamente, il primo risultato della ricerca è quello desiderato.&lt;/p&gt;
 
@@ -31,10 +30,10 @@ Così si introducono motori di ricerca interni, ma come fare a renderli verament
     
     <item>
       <title>Una tabella senza intestazione è come una barca senza il timone</title>
-      <link>https://mignamis.github.io/post/tabelle-intestazione/</link>
+      <link>https://mignamis.github.io/2017/10/una-tabella-senza-intestazione-%C3%A8-come-una-barca-senza-il-timone/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mignamis.github.io/post/tabelle-intestazione/</guid>
+      <guid>https://mignamis.github.io/2017/10/una-tabella-senza-intestazione-%C3%A8-come-una-barca-senza-il-timone/</guid>
       <description>&lt;p&gt;Rendere accessibile una tabella è semplice e bastano poche righe di codice.
 Se si trascura questo dettaglio un elenco di dati può diventare un ammasso di numeri e scritte senza nessuna forma, completamente illeggibile.&lt;/p&gt;
 

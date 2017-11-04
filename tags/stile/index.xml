@@ -6,7 +6,6 @@
     <description>Recent content in Stile on WebASD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>Released under the MIT license&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
     <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mignamis.github.io/tags/stile/index.xml" rel="self" type="application/rss+xml" />
@@ -14,10 +13,10 @@
     
     <item>
       <title>Una tabella senza intestazione è come una barca senza il timone</title>
-      <link>https://mignamis.github.io/post/tabelle-intestazione/</link>
+      <link>https://mignamis.github.io/2017/10/una-tabella-senza-intestazione-%C3%A8-come-una-barca-senza-il-timone/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mignamis.github.io/post/tabelle-intestazione/</guid>
+      <guid>https://mignamis.github.io/2017/10/una-tabella-senza-intestazione-%C3%A8-come-una-barca-senza-il-timone/</guid>
       <description>&lt;p&gt;Rendere accessibile una tabella è semplice e bastano poche righe di codice.
 Se si trascura questo dettaglio un elenco di dati può diventare un ammasso di numeri e scritte senza nessuna forma, completamente illeggibile.&lt;/p&gt;
 

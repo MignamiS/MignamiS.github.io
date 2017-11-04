@@ -6,7 +6,6 @@
     <description>Recent content in Link on WebASD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>Released under the MIT license&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
     <lastBuildDate>Sat, 07 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mignamis.github.io/tags/link/index.xml" rel="self" type="application/rss+xml" />
@@ -14,14 +13,14 @@
     
     <item>
       <title>Costruire link adatti</title>
-      <link>https://mignamis.github.io/post/link/</link>
+      <link>https://mignamis.github.io/2017/10/costruire-link-adatti/</link>
       <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mignamis.github.io/post/link/</guid>
+      <guid>https://mignamis.github.io/2017/10/costruire-link-adatti/</guid>
       <description>&lt;p&gt;Una delle componenti base dell&amp;rsquo;accessibilità di un sito web è la navigazione in esso.
 I &lt;strong&gt;link&lt;/strong&gt; permettono di spostarci da una parte all&amp;rsquo;altra, ma quando sono ambigui possono creare vere e proprie barriere persino ad utenti esperti.&lt;/p&gt;
 
-&lt;p&gt;Un esempio? Prova a scaricare uno di quei software gratuiti ed evitare tutti i banner pubblicitari che ti dicono &amp;ldquo;scarica!&amp;rdquo; e &amp;ldquo;download&amp;rdquo;.
+&lt;p&gt;Un esempio? provare a scaricare uno di quei software gratuiti ed evitare tutti i banner pubblicitari che dicono &amp;ldquo;scarica!&amp;rdquo; e &amp;ldquo;download&amp;rdquo;.
 Confondere l&amp;rsquo;utente per questi siti è la prassi così &lt;strong&gt;CASUALMENTE&lt;/strong&gt; prima di trovare quello che cerca si fa un bel giretto e fa guadagnare soldi al gestore.&lt;/p&gt;
 
 &lt;p&gt;Ma tu non sei uno di questi gestori disonesti, vero? VERO??? Bene, ecco qualche suggerimento per creare dei link che siano accessibili.&lt;/p&gt;

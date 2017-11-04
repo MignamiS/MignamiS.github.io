@@ -3,27 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mignamis.github.io/come/</loc>
+    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mignamis.github.io/why/</loc>
     <lastmod>2017-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mignamis.github.io/post/tabelle-layout/</loc>
+    <loc>https://mignamis.github.io/2017/10/il-medioevo-dellimpaginazione/</loc>
     <lastmod>2017-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mignamis.github.io/post/a11y/</loc>
+    <loc>https://mignamis.github.io/2017/10/svelato-larcano/</loc>
     <lastmod>2017-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mignamis.github.io/post/search-landmark/</loc>
+    <loc>https://mignamis.github.io/2017/10/fare-in-modo-che-il-campo-di-ricerca-non-vada-cercato/</loc>
     <lastmod>2017-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mignamis.github.io/post/link/</loc>
+    <loc>https://mignamis.github.io/2017/10/costruire-link-adatti/</loc>
     <lastmod>2017-10-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://mignamis.github.io/post/tabelle-intestazione/</loc>
+    <loc>https://mignamis.github.io/2017/10/una-tabella-senza-intestazione-%C3%A8-come-una-barca-senza-il-timone/</loc>
     <lastmod>2017-10-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -115,7 +120,7 @@
   
   <url>
     <loc>https://mignamis.github.io/</loc>
-    <lastmod>2017-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
