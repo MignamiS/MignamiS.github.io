@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heading on Websive</title>
+    <link>https://mignamis.github.io/tags/heading/</link>
+    <description>Recent content in Heading on Websive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Wed, 15 Aug 2018 16:13:40 +0200</lastBuildDate>
+    
+	<atom:link href="https://mignamis.github.io/tags/heading/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effetto Testo più Grande</title>
+      <link>https://mignamis.github.io/post/articoli/effetto-testo-grande/</link>
+      <pubDate>Wed, 15 Aug 2018 16:13:40 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/effetto-testo-grande/</guid>
+      <description>&lt;p&gt;Ecco qualche buona ragione per evitare di utilizzare i tag heading per ottenere un effetto di &amp;ldquo;testo più grande&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Ammettiamolo, ogni tanto abbiamo riciclato un H4 o un H5 per dare al volo uno stile ad un elemento di contorno, oppure per far risaltare un frammento di testo.
+Ma perché è una cattiva idea?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Titoli O Intestazioni?</title>
+      <link>https://mignamis.github.io/post/articoli/titoli-o-intestazioni/</link>
+      <pubDate>Fri, 29 Sep 2017 10:51:12 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/titoli-o-intestazioni/</guid>
+      <description>&lt;p&gt;Questo articolo chiarisce alcuni termini usati dagli addetti ai lavori: &lt;em&gt;titoli&lt;/em&gt;, &lt;em&gt;heading&lt;/em&gt;, &lt;em&gt;title&lt;/em&gt; e &lt;em&gt;intestazioni&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

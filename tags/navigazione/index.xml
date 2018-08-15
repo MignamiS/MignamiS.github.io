@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Navigazione on Websive</title>
+    <link>https://mignamis.github.io/tags/navigazione/</link>
+    <description>Recent content in Navigazione on Websive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Mon, 15 Jan 2018 11:56:02 +0200</lastBuildDate>
+    
+	<atom:link href="https://mignamis.github.io/tags/navigazione/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Un faro per i naviganti</title>
+      <link>https://mignamis.github.io/post/articoli/faro-per-naviganti/</link>
+      <pubDate>Mon, 15 Jan 2018 11:56:02 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/faro-per-naviganti/</guid>
+      <description>&lt;p&gt;Navigare un sito web può essere una gran rottura di scatole per diverse tipologie di utenti.&lt;/p&gt;
+
+&lt;p&gt;Eppure basta davvero poco per agevolarle, vediamo come fare.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dare un nome ai menu di navigazione</title>
+      <link>https://mignamis.github.io/post/articoli/nav-nome/</link>
+      <pubDate>Mon, 15 Jan 2018 11:50:21 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/nav-nome/</guid>
+      <description>&lt;p&gt;Capita che ci siano più menu per navigare un sito.
+Magari uno di primo livello, con le sezioni principali del sito, e uno secondario con la navigazione delle sotto-sezioni.&lt;/p&gt;
+
+&lt;p&gt;Ecco come possiamo dare loro un nome, rendendo esplicito il loro scopo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

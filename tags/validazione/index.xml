@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Validazione on Websive</title>
+    <link>https://mignamis.github.io/tags/validazione/</link>
+    <description>Recent content in Validazione on Websive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Wed, 11 Apr 2018 11:56:02 +0200</lastBuildDate>
+    
+	<atom:link href="https://mignamis.github.io/tags/validazione/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Le molte facce dello stesso campo</title>
+      <link>https://mignamis.github.io/post/articoli/input-type/</link>
+      <pubDate>Wed, 11 Apr 2018 11:56:02 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/input-type/</guid>
+      <description>&lt;p&gt;Html5 ha introdotto nuovi tipi di input, perfettamente retro-compatibili e assolutamente da provare.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aria Label on Websive</title>
+    <link>https://mignamis.github.io/tags/aria-label/</link>
+    <description>Recent content in Aria Label on Websive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Mon, 15 Jan 2018 11:50:21 +0200</lastBuildDate>
+    
+	<atom:link href="https://mignamis.github.io/tags/aria-label/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dare un nome ai menu di navigazione</title>
+      <link>https://mignamis.github.io/post/articoli/nav-nome/</link>
+      <pubDate>Mon, 15 Jan 2018 11:50:21 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/nav-nome/</guid>
+      <description>&lt;p&gt;Capita che ci siano più menu per navigare un sito.
+Magari uno di primo livello, con le sezioni principali del sito, e uno secondario con la navigazione delle sotto-sezioni.&lt;/p&gt;
+
+&lt;p&gt;Ecco come possiamo dare loro un nome, rendendo esplicito il loro scopo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sovrascrivere Le Etichette Con La Forza</title>
+      <link>https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/</link>
+      <pubDate>Fri, 29 Sep 2017 10:54:55 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/</guid>
+      <description>&lt;p&gt;Ci sono volte in cui un&amp;rsquo;informazione è intuitiva per le persone che ci vedono, come ad esempio un&amp;rsquo;icona.
+Ma per chi ci vede poco, o non ci vede del tutto, come possiamo trasmettere la stessa informazione senza stravolgere la pagina?&lt;/p&gt;
+
+&lt;p&gt;In questo articolo vediamo come rendere accessibile agli screen reader informazioni complesse, deducibili solo da esseri umani.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,128 +1,854 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WebASD</title>
+    <title>Websive</title>
     <link>https://mignamis.github.io/</link>
-    <description>Recent content on WebASD</description>
+    <description>Recent content on Websive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 22 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
     
-	<atom:link href="https://mignamis.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://mignamis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Come</title>
-      <link>https://mignamis.github.io/come/</link>
-      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mignamis.github.io/come/</guid>
-      <description>Come le persone con handicap navigano un sito web Questa pagina contiene una panoramica sulle strategie con cui le persone con handicap interagiscono con le pagine web. Sebbene io sia nell&amp;rsquo;ambito dell&amp;rsquo;accessibilità da alcuni anni conosco principalmente le problematiche legate alle difficoltà visive. Va inoltre tenuto conto che non tutti utilizzano le stesse modalità: ciò che per un utente può essere un vantaggio, per un altro può essere una distrazione o addirittura un ostacolo.</description>
-    </item>
-    
-    <item>
-      <title>Perché</title>
-      <link>https://mignamis.github.io/why/</link>
-      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mignamis.github.io/why/</guid>
-      <description>Perché l&amp;rsquo;accessibilità? La domanda che più spesso mi viene posta quando mi capita di parlare di accessibilità a degli sviluppatori è proprio &amp;ldquo;perché uno dovrebbe spendere tempo per l&amp;rsquo;accessibilità?&amp;rdquo;. In questa pagina ho sintetizzato alcune delle spiegazioni che porto per convincere anche i più scettici, soprattutto coloro che fanno del web il loro business.
-L&amp;rsquo;accessibilità riguarda pure te Esistono 3 motivi che di solito porto per convincere le persone che l&amp;rsquo;accessibilità riguarda tutti e non solo le persone con handicap.</description>
-    </item>
-    
-    <item>
-      <title>Il Medioevo dell&#39;impaginazione</title>
-      <link>https://mignamis.github.io/2017/10/il-medioevo-dellimpaginazione/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mignamis.github.io/2017/10/il-medioevo-dellimpaginazione/</guid>
-      <description>&lt;p&gt;Nei &amp;ldquo;secoli bui&amp;rdquo; del web, quando ancora struttura e stile condividevano lo stesso documento, venivano usate le tabelle per gestire il layout della pagina.
-Ancora oggi si possono trovare porzioni di pagina che utilizzano una tabella per posizionare gli elementi secondo un certo schema.&lt;/p&gt;
-
-&lt;p&gt;Siccome queste abitudini sono dure a morire ecco qualche consiglio su come gestire al meglio queste situazioni dal punto di vista dell&amp;rsquo;accessibilità.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Svelato l&#39;arcano</title>
-      <link>https://mignamis.github.io/2017/10/svelato-larcano/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mignamis.github.io/2017/10/svelato-larcano/</guid>
-      <description>&lt;p&gt;Leggendo articoli e materiale sull&amp;rsquo;accessibilità capita talvolta di imbattersi in una parola: &lt;strong&gt;a11y&lt;/strong&gt;.
-Si tratta di un codice segreto alla Dan Brown che solamente pochi eletti possono capire?&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Fare in modo che il campo di ricerca non vada cercato</title>
-      <link>https://mignamis.github.io/2017/10/fare-in-modo-che-il-campo-di-ricerca-non-vada-cercato/</link>
-      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mignamis.github.io/2017/10/fare-in-modo-che-il-campo-di-ricerca-non-vada-cercato/</guid>
-      <description>&lt;p&gt;Chi come me fa fatica a saltare da una parte all&amp;rsquo;altra di un sito, cercando di decifrare la logica dell&amp;rsquo;organizzazione delle informazioni, spesso utilizza Google per arrivare alla pagina che gli interessa.
-Basta digitare poche parole chiave e, solitamente, il primo risultato della ricerca è quello desiderato.&lt;/p&gt;
-
-&lt;p&gt;Da webmaster però mi accorgo che questo comportamento diffuso riduce il traffico nelle pagine e di conseguenza gli introiti.
-Così si introducono motori di ricerca interni, ma come fare a renderli veramente accessibili e utili a mantenere l&amp;rsquo;utente nelle nostre pagine.&lt;/p&gt;
-
-&lt;p&gt;In questo articolo la risposta alla domanda, tutt&amp;rsquo;altro che scontata.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Costruire link adatti</title>
-      <link>https://mignamis.github.io/2017/10/costruire-link-adatti/</link>
-      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mignamis.github.io/2017/10/costruire-link-adatti/</guid>
-      <description>&lt;p&gt;Una delle componenti base dell&amp;rsquo;accessibilità di un sito web è la navigazione in esso.
-I &lt;strong&gt;link&lt;/strong&gt; permettono di spostarci da una parte all&amp;rsquo;altra, ma quando sono ambigui possono creare vere e proprie barriere persino ad utenti esperti.&lt;/p&gt;
-
-&lt;p&gt;Un esempio? provare a scaricare uno di quei software gratuiti ed evitare tutti i banner pubblicitari che dicono &amp;ldquo;scarica!&amp;rdquo; e &amp;ldquo;download&amp;rdquo;.
-Confondere l&amp;rsquo;utente per questi siti è la prassi così &lt;strong&gt;CASUALMENTE&lt;/strong&gt; prima di trovare quello che cerca si fa un bel giretto e fa guadagnare soldi al gestore.&lt;/p&gt;
-
-&lt;p&gt;Ma tu non sei uno di questi gestori disonesti, vero? VERO??? Bene, ecco qualche suggerimento per creare dei link che siano accessibili.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Chi sono</title>
       <link>https://mignamis.github.io/about/</link>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
       <guid>https://mignamis.github.io/about/</guid>
-      <description>Due parole su di me e su questo sito.
-Biografia Mi chiamo Simone Mignami e vivo in Ticino (Svizzera), dove sono nato e cresciuto.
-A 11 anni mi hanno diagnosticato una Retinite Pigmentosa, una malattia genetica che colpisce la retina e degrada la vista fino a condurre alla cecità. Questa malattia ha condizionato in maniera importante la mia vita: dapprima gli studi, poi il lavoro. Sono sempre stato spronato dalla mia famiglia e dai miei amici ad andare avanti e a trasformare la mia debolezza nella mia forza.</description>
+      
+        <description>
+
+&lt;p&gt;Due parole su di me e su questo sito.&lt;/p&gt;
+
+&lt;h2 id=&#34;biografia&#34;&gt;Biografia&lt;/h2&gt;
+
+&lt;p&gt;Mi chiamo Simone Mignami e vivo in Ticino (Svizzera), dove sono nato e cresciuto.&lt;/p&gt;
+
+&lt;p&gt;A 11 anni mi hanno diagnosticato una &lt;em&gt;Retinite Pigmentosa&lt;/em&gt;, una malattia genetica che colpisce la retina e degrada la vista fino a portare alla cecità.
+Questa malattia ha condizionato in maniera importante la mia vita: dapprima gli studi, poi il lavoro.
+Sono sempre stato spronato dalla mia famiglia e dai miei amici ad andare avanti e a trasformare la mia debolezza nella mia forza.&lt;/p&gt;
+
+&lt;p&gt;Terminato il liceo ho intrapreso la strada dell’università.
+Dopo alcune false partenze, che mi hanno comunque permesso di crescere e imparare cose nuove, sono approdato alla SUPSI (Scuola universitaria professionale della Svizzera italiana) dove mi sono diplomato come Ingegnere informatico nel 2015.
+Dopo un anno di lavoro come assistente presso l&amp;rsquo;&lt;em&gt;istituto Information Systems and Networking&lt;/em&gt; (ISIN) ho iniziato la mia carriera come Specialista di accessibilità presso l&amp;rsquo;&lt;em&gt;Amministrazione cantonale&lt;/em&gt; del Cantone Ticino.&lt;/p&gt;
+
+&lt;p&gt;Nella vita mi occupo di sviluppo web, ma anche di rendere il portale dell’Amministrazione accessibile a tutti: lavoro titanico dato che il sito conta diverse migliaia di pagine.&lt;/p&gt;
+
+&lt;h3 id=&#34;progetti-e-collaborazioni&#34;&gt;Progetti e collaborazioni&lt;/h3&gt;
+
+&lt;p&gt;Ho coltivato per anni la mia predisposizione alla comunicazione e ciò mi ha portato a conoscere e a farmi conoscere da molte persone.
+Nel 2014 ho avuto la fortuna di incontrare un gruppo di appassionati e professionisti del mondo del web,
+&lt;a href=&#34;http://www.frontenders.ch/&#34;&gt;FrontEnders Ticino&lt;/a&gt;
+, per i quali tengo alcune conferenze in ambito di accessibilità.
+Grazie a questo collaboro tutt&amp;rsquo;ora per delle consulenze.&lt;/p&gt;
+
+&lt;h3 id=&#34;perché-questo-sito&#34;&gt;Perché questo sito?&lt;/h3&gt;
+
+&lt;p&gt;L’idea di aprire un blog mi ha sempre stuzzicato e ora che ho accumulato un po’ di conoscenze intendo infonderle in queste pagine perché chiunque ne possa attingere.
+Si tratta perlopiù di esperienze dirette, trucchi del mestiere e frammenti di codice che tutti i giorni mi accompagnano nel mio lavoro.
+Esistono diversi siti che trattano questo argomento: ma se in inglese il materiale è quasi troppo, in italiano c’é pochissimo  in merito all’accessibilità web.&lt;/p&gt;
+
+&lt;h2 id=&#34;contattarmi-è-facile&#34;&gt;Contattarmi è facile&lt;/h2&gt;
+
+&lt;p&gt;Se trovi errori o imprecisioni, se ti servono maggiori informazioni o dei consigli specifici, non esitare a contattarmi.
+In fondo ad ogni pagina ci sono i recapiti necessari.&lt;/p&gt;
+</description>
+      
     </item>
     
     <item>
-      <title>Una tabella senza intestazione è come una barca senza il timone</title>
-      <link>https://mignamis.github.io/2017/10/una-tabella-senza-intestazione-%C3%A8-come-una-barca-senza-il-timone/</link>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Appiccicare una descrizione ad un elemento</title>
+      <link>https://mignamis.github.io/post/articoli/aria-describedby/</link>
+      <pubDate>Wed, 15 Aug 2018 16:15:42 +0200</pubDate>
       
-      <guid>https://mignamis.github.io/2017/10/una-tabella-senza-intestazione-%C3%A8-come-una-barca-senza-il-timone/</guid>
-      <description>&lt;p&gt;Rendere accessibile una tabella è semplice e bastano poche righe di codice.
-Se si trascura questo dettaglio un elenco di dati può diventare un ammasso di numeri e scritte senza nessuna forma, completamente illeggibile.&lt;/p&gt;
+      <guid>https://mignamis.github.io/post/articoli/aria-describedby/</guid>
+      
+        <description>&lt;p&gt;Un attributo che ci può levare d&amp;rsquo;impaccio in alcune situazioni spinose.&lt;/p&gt;
 
-&lt;p&gt;In questo articolo approfondiremo le tabelle e il modo per renderle accessibili a tutti: dagli screen reader ai motori  di ricerca.&lt;/p&gt;
+&lt;p&gt;Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Situazione pratica: abbiamo un campo password con alcuni vincoli imposti, come quali simboli sono ammessi e la lunghezza minima.
+Per motivi di design questi vincoli sono nascosti all&amp;rsquo;utente e appaiono in un fumetto solo quando il cursore entra nel campo.&lt;/p&gt;
+
+&lt;p&gt;Non si può:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Usare un testo visibile solo agli screen reader messo prima del campo per spiegare come deve essere composta la password, perché l&amp;rsquo;utente salta da un campo all&amp;rsquo;altro e non può leggerlo.&lt;/li&gt;
+&lt;li&gt;Inserire la spiegazione nell&amp;rsquo;etichetta del campo, perché la renderebbe verbosa e poco estetica.&lt;/li&gt;
+&lt;li&gt;Utilizzare il &lt;em&gt;placeholder&lt;/em&gt;, perché oltre a non essere esteticamente compatibile, può non essere annunciato correttamente dalla sintesi vocale.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fra tutte le soluzioni che si potrebbero adottare, quella che propongo è l&amp;rsquo;attributo &lt;strong&gt;aria-describedby&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;attributo &lt;em&gt;aria-describedby&lt;/em&gt; permette di aggiungere una descrizione all&amp;rsquo;elemento corrente, in modo che sia annunciata subito dopo l&amp;rsquo;etichetta dell&amp;rsquo;elemento stesso.
+&lt;em&gt;Aria-describedby&lt;/em&gt; contiene la referenza (id) di un elemento, il cui testo è usato per costruire la descrizione.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;label&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;for&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;password&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Password&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;label&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;input&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;type&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;password&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;password&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;aria-describedby&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fumetto-password&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fumetto&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fumetto-password&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Lunghezza minima 8 caratteri, simboli consentiti - e _&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Quando il cursore entra nel campo, viene per esempio annunciato:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Password campo Lunghezza minima 8 caratteri simboli consentiti trattino e trattino basso&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;posso-usare-un-elemento-che-è-nascosto&#34;&gt;Posso usare un elemento che è nascosto?&lt;/h2&gt;
+
+&lt;p&gt;Sì, anche se l&amp;rsquo;elemento è reso invisibile tramite CSS può essere comunque raggiunto ed utilizzato per la descrizione.&lt;/p&gt;
+
+&lt;div class=&#34;shortcode-notice note&#34;&gt;
+  &lt;div class=&#34;shortcode-notice-title note&#34;&gt;
+    
+      Nota bene
+    
+  &lt;/div&gt;
+  &lt;p&gt;Normalmente nascondendo con il CSS un elemento, le tecnologie ausiliarie tendono ad ignorarlo.&lt;/p&gt;
+
+&lt;/div&gt;</description>
+      
     </item>
     
     <item>
-      <title>Tags</title>
-      <link>https://mignamis.github.io/tags/</link>
-      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Effetto Testo più Grande</title>
+      <link>https://mignamis.github.io/post/articoli/effetto-testo-grande/</link>
+      <pubDate>Wed, 15 Aug 2018 16:13:40 +0200</pubDate>
       
-      <guid>https://mignamis.github.io/tags/</guid>
-      <description>Elenco dei tag:
-curiositàlandmarklayoutlinkricercarolesemanticastiletabelle </description>
+      <guid>https://mignamis.github.io/post/articoli/effetto-testo-grande/</guid>
+      
+        <description>&lt;p&gt;Ecco qualche buona ragione per evitare di utilizzare i tag heading per ottenere un effetto di &amp;ldquo;testo più grande&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Ammettiamolo, ogni tanto abbiamo riciclato un H4 o un H5 per dare al volo uno stile ad un elemento di contorno, oppure per far risaltare un frammento di testo.
+Ma perché è una cattiva idea?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Ebbene è una &lt;strong&gt;pessima&lt;/strong&gt; idea.&lt;/p&gt;
+
+&lt;p&gt;A livello semantico un &lt;em&gt;heading&lt;/em&gt; determina un titolo per qualcosa, come ad esempio un capitolo o un settore della pagina.
+La gerarchia degli heading è adoperata per indicizzare o navigare la pagina, sfruttandola spesso come &amp;ldquo;table-of-contents&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Le persone con disabilità si appoggiano a questo &lt;em&gt;indice dei contenuti&lt;/em&gt; per capire o navigare la pagina web.
+Ma anche i motori di ricerca possono trarre beneficio da questo espediente.&lt;/p&gt;
+
+&lt;p&gt;Ecco come apparirebbe ad un motore di ricerca una pagina in cui è stato attribuito un H4 per rendere il testo più accattivante:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Home page | comune di Durlindera
+
+&lt;ul&gt;
+&lt;li&gt;Informazioni&lt;/li&gt;
+&lt;li&gt;Popolazione&lt;/li&gt;
+&lt;li&gt;Ultime news&lt;/li&gt;
+&lt;li&gt;Venite alla sagra del merluzzo che si terrà giovedì 26 giugno dalle ore 19:30 presso la sala parrocchiale. Cena, tombola e ballo liscio a partire dalle 20:00.&lt;/li&gt;
+&lt;li&gt;Contatti&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Se questo fosse l&amp;rsquo;indice dei contenuti della vostra tesi di laurea, dubito che otterreste il diploma.&lt;/p&gt;
+
+&lt;div class=&#34;shortcode-notice warning&#34;&gt;
+  &lt;div class=&#34;shortcode-notice-title warning&#34;&gt;
+    
+      Ricorda
+    
+  &lt;/div&gt;
+  &lt;p&gt;I tag H1 - H6 sono da usare solo su dei titoli.
+Mai per ottenere un effetto di &amp;ldquo;testo più grande&amp;rdquo;.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Immaginati sempre che gli heading vanno a formare un &lt;em&gt;indice dei contenuti&lt;/em&gt; e che devono essere coerenti con il contenuto della pagina.
+Se un elemento stona con lo scopo della pagina, utilizza un altro tag o stile.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Inserire errori nel titolo della pagina è una cosa buona</title>
+      <link>https://mignamis.github.io/post/articoli/errori-nel-titolo/</link>
+      <pubDate>Mon, 14 May 2018 16:11:34 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/errori-nel-titolo/</guid>
+      
+        <description>&lt;p&gt;No, non sono diventato eretico né intendo suggerire comportamenti autolesionistici.&lt;/p&gt;
+
+&lt;p&gt;Durante la validazione di un form può davvero essere utile modificare il titolo della pagina, vediamo il perché.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Il titolo della pagina è la prima cosa che viene letta dallo screen reader.
+Per rendere attento l&amp;rsquo;utente che ha commesso degli errori nel form, possiamo usare questo canale per informarlo.&lt;/p&gt;
+
+&lt;div class=&#34;shortcode-notice note&#34;&gt;
+  &lt;div class=&#34;shortcode-notice-title note&#34;&gt;
+    
+      Nota bene
+    
+  &lt;/div&gt;
+  &lt;p&gt;Questo sistema funziona se la pagina viene &lt;strong&gt;ricaricata&lt;/strong&gt;.
+Se il form è validato dinamicamente con uno script, non è detto che l&amp;rsquo;utente ne sia informato.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Spesso i framework lato-server utilizzano il pattern della validazione sincrona; dopo che l&amp;rsquo;utente ha inviato il form contenente errori, la pagina viene ritornata con i campi da correggere contrassegnati.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;utente con &lt;strong&gt;difficoltà visive&lt;/strong&gt;, però, è costretto a scorrere tutti i campi cercando di capire cosa non ha funzionato, causando spesso frustrazione.
+Possiamo rendere attento l&amp;rsquo;utente modificando il titolo della pagina.&lt;/p&gt;
+
+&lt;p&gt;Ipotizziamo che l&amp;rsquo;utente si stia registrando al nostro sito.
+Il form chiede di inserire nome, cognome, email, password e conferma della password.&lt;/p&gt;
+
+&lt;p&gt;Immaginiamo che l&amp;rsquo;utente commetta un errore proprio in quest&amp;rsquo;ultimo campo, che sarà puntualmente segnalato da un messaggio, ad esempio &amp;ldquo;Errore, la conferma non corrisponde alla password inserita&amp;rdquo;.
+In fase di rendering della pagina da ritornare all&amp;rsquo;utente, possiamo cambiare il titolo come segue:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Registrazione - 1 errore in Conferma password- MioSito.com&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ecco i principali benefici:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Inserendo la notifica dell&amp;rsquo;errore subito dopo il nome della pagina sarà letto come prima cosa quando la pagina viene caricata.&lt;/li&gt;
+&lt;li&gt;Il numero degli errori commessi informa sull&amp;rsquo;entità del problema e su quanti campi saranno da correggere.&lt;/li&gt;
+&lt;li&gt;Inserire il nome dei campi interessati aiuta a velocizzare le operazioni di correzione.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&#34;shortcode-notice note&#34;&gt;
+  &lt;div class=&#34;shortcode-notice-title note&#34;&gt;
+    
+      Nota bene
+    
+  &lt;/div&gt;
+  &lt;p&gt;Il titolo della pagina è modificato solo temporaneamente e dopo un&amp;rsquo;azione, non c&amp;rsquo;è pericolo per l&amp;rsquo;indicizzazione da parte dei motori di ricerca.&lt;/p&gt;
+
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>La peggior maledizione? Le tabelle senza intestazione</title>
+      <link>https://mignamis.github.io/post/articoli/intestazione-tabelle/</link>
+      <pubDate>Wed, 18 Apr 2018 12:01:49 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/intestazione-tabelle/</guid>
+      
+        <description>&lt;p&gt;Rendere accessibile una tabella è semplice e bastano poche righe di codice.&lt;/p&gt;
+
+&lt;p&gt;Se si trascura questo dettaglio un insieme di dati può diventare un ammasso di numeri senza forma; illeggibile.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Una tabella è composta, come minimo, da due parti: &lt;em&gt;l’intestazione&lt;/em&gt; e i &lt;em&gt;dati&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Prendiamo ad esempio questa
+&lt;a href=&#34;https://it.wikipedia.org/wiki/Sistema_solare&#34;&gt;tabella sul Sistema solare&lt;/a&gt;
+che ho trovato su Wikipedia.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Pianeta&lt;/th&gt;
+&lt;th&gt;Distanza media (milioni di Km)&lt;/th&gt;
+&lt;th&gt;Perielio (milioni di Km)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mercurio&lt;/td&gt;
+&lt;td&gt;57,91&lt;/td&gt;
+&lt;td&gt;46&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Venere&lt;/td&gt;
+&lt;td&gt;108&lt;/td&gt;
+&lt;td&gt;107,5&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Terra&lt;/td&gt;
+&lt;td&gt;149,6&lt;/td&gt;
+&lt;td&gt;147,1&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Marte&lt;/td&gt;
+&lt;td&gt;227,94&lt;/td&gt;
+&lt;td&gt;206,6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Per chi la tabella la vede, trovare la distanza media della Terra è semplice.&lt;/p&gt;
+
+&lt;p&gt;Ma ecco invece come appare una tabella senza intestazione, non accessibile, quando viene letta da uno screen reader.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Pianeta Distanza media (milioni di km) Perielio (milioni di km) Mercurio 57,91 46 Venere 108 107,5 Terra 149,6 147,1 Marte 227,94 206,6 &amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Immagina di dover estrapolare lo stesso dato da una sequenza come questa…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ma l&amp;rsquo;intestazione c&amp;rsquo;è! Si vede benissimo.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Vero, a livello visivo l&amp;rsquo;intestazione è visibile, ma non si può dire lo stesso del codice.
+Se coloriamo lo sfondo di una cella, una macchina non può indovinare che il suo contenuto deve considerarlo &amp;ldquo;intestazione&amp;rdquo;.
+Possiamo al limite farlo noi umani, ma richiede uno sforzo deduttivo che un computer, almeno per il momento, non può ancora fare.&lt;/p&gt;
+
+&lt;h2 id=&#34;determinare-programmaticamente-un-intestazione&#34;&gt;Determinare programmaticamente un&amp;rsquo;intestazione&lt;/h2&gt;
+
+&lt;p&gt;Per rendere accessibile ad un computer (e quindi ad una persona con handicap) una tabella, si usa il tag &lt;code&gt;&amp;lt;th&amp;gt;&amp;lt;/th&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;table&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;th&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Pianeta&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;th&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;th&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Distanza media&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;th&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;th&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Perielio&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;th&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;td&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Mercurio&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;td&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;td&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;57,91&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;td&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;td&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;46&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;td&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+  ...
+&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;table&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Ora l&amp;rsquo;intestazione è determinabile programmaticamente.&lt;/p&gt;
+
+&lt;p&gt;Le persone cieche possono navigare le tabelle comodamente, se sono accessibili.
+Lo screen reader annuncia il nome della colonna quando il cursore entra in essa, poi legge il contenuto.
+In questo modo l&amp;rsquo;utente sa sempre dove si trova.&lt;/p&gt;
+
+&lt;p&gt;Ad esempio, nel caso della distanza della Terra:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Distanza media (milioni di Km) 149,6&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Questa soluzione si applica anche per le &lt;strong&gt;tabelle orizzontali&lt;/strong&gt;.
+&lt;a href=&#34;https://www.w3.org/WAI/tutorials/tables/one-header/&#34;&gt;Maggiori informazioni sulle tabelle&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;shortcode-notice tip&#34;&gt;
+  &lt;div class=&#34;shortcode-notice-title tip&#34;&gt;
+    
+      tip
+    
+  &lt;/div&gt;
+  &lt;p&gt;Utilizzare il tag &lt;em&gt;th&lt;/em&gt; agevola la creazione dello stile per la tabella.
+Dal CSS si può direttamente agganciare l&amp;rsquo;elemento &amp;ldquo;th&amp;rdquo;.&lt;/p&gt;
+
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Le molte facce dello stesso campo</title>
+      <link>https://mignamis.github.io/post/articoli/input-type/</link>
+      <pubDate>Wed, 11 Apr 2018 11:56:02 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/input-type/</guid>
+      
+        <description>&lt;p&gt;Html5 ha introdotto nuovi tipi di input, perfettamente retro-compatibili e assolutamente da provare.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Invece di utilizzare il solito &lt;code&gt;&amp;lt;input type&amp;quot;text&amp;quot;/&amp;gt;&lt;/code&gt;, si possono usare questi (ancora sconosciuti) input, che presentano tre benefici interessanti:&lt;/p&gt;
+
+&lt;p&gt;In primo luogo sono &lt;strong&gt;auto-validanti&lt;/strong&gt;, cioè se viene inserito un valore scorretto provvedono ad avvisare l&amp;rsquo;utente in maniera accessibile.&lt;/p&gt;
+
+&lt;p&gt;In secondo luogo, se invece del campo di testo viene proposto un widget, questo è solitamente già &lt;strong&gt;accessibile&lt;/strong&gt; (feedback vocali, utilizzabile tramite tastiera, ecc.).&lt;/p&gt;
+
+&lt;p&gt;Il terzo beneficio, per gli utenti mobile, lo vediamo dopo: ora ecco una carrellata di questi nuovi tipi di input:&lt;/p&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;color&lt;/dt&gt;
+&lt;dd&gt;permette di inserire un colore: In alcuni browser viene mostrato il color-picker di sistema.&lt;/dd&gt;
+&lt;dt&gt;date&lt;/dt&gt;
+&lt;dd&gt;per inserire una data (giorno-mese-anno). In alcuni browser appare il calendario di sistema.&lt;/dd&gt;
+&lt;dt&gt;email&lt;/dt&gt;
+&lt;dd&gt;per indirizzi email.&lt;/dd&gt;
+&lt;dt&gt;file&lt;/dt&gt;
+&lt;dd&gt;Permette di selezionare un file da caricare. Il pulsante &amp;ldquo;sfoglia&amp;rdquo; è tradotto automaticamente nella lingua di sistema.&lt;/dd&gt;
+&lt;dt&gt;month&lt;/dt&gt;
+&lt;dd&gt;Fornisce all&amp;rsquo;utente un campo per inserire mese e anno. Firefox al momento lo implementa come un campo di testo semplice, Google Chrome fornisce un widget più complesso, con elenco predefinito.&lt;/dd&gt;
+&lt;dt&gt;number&lt;/dt&gt;
+&lt;dd&gt;Uno spin per inserire valori numerici.&lt;/dd&gt;
+&lt;dt&gt;range&lt;/dt&gt;
+&lt;dd&gt;Fornisce uno slider per selezionare un valore compreso fra un minimo ed un massimo.&lt;/dd&gt;
+&lt;dt&gt;tel&lt;/dt&gt;
+&lt;dd&gt;Per inserire numeri di telefono.&lt;/dd&gt;
+&lt;dt&gt;url&lt;/dt&gt;
+&lt;dd&gt;Per URL. Alcuni browser possono anche validarlo.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Ecco l&amp;rsquo;
+&lt;a href=&#34;https://www.w3schools.com/html/html_form_input_types.asp&#34;&gt;elenco dei tipi di input&lt;/a&gt;
+.
+Per alcuni tipi è anche possibile specificare dei vincoli, come un valore massimo o minimo, e addirittura un pattern regex per validare una sequenza complessa.&lt;/p&gt;
+
+&lt;p&gt;Esempio pratico:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;input&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;type&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;email&amp;#34;&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;...&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Quindi d&amp;rsquo;ora in avanti, quando dovrai richiedere un input all&amp;rsquo;utente, consulta questo elenco per vedere se non esiste già un campo adatto.&lt;/p&gt;
+
+&lt;h2 id=&#34;perché-l-utente-mobile-è-avvantaggiato-se-uso-questi-tipi-di-input&#34;&gt;Perché l&amp;rsquo;utente mobile è avvantaggiato se uso questi tipi di input?&lt;/h2&gt;
+
+&lt;p&gt;Semplicemente perché, a dipendenza del campo, selezionandolo appare la tastiera adatta a compilarlo.&lt;/p&gt;
+
+&lt;p&gt;Per esempio la tastiera &lt;em&gt;email&lt;/em&gt; ha già a portata di dito diversi simboli utili, come la &amp;ldquo;@&amp;rdquo; o il &amp;ldquo;.com&amp;rdquo;.
+Per l&amp;rsquo;input &lt;em&gt;number&lt;/em&gt;, invece, appare la tastiera numerica che ha le 10 cifre belle in grande, senza lettere.&lt;/p&gt;
+
+&lt;p&gt;Una comodità che non puoi far mancare ai tuoi utenti!&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>I link parlanti sono buoni consiglieri</title>
+      <link>https://mignamis.github.io/post/articoli/link-parlanti/</link>
+      <pubDate>Thu, 22 Mar 2018 11:57:15 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/link-parlanti/</guid>
+      
+        <description>&lt;p&gt;I link sono il cuore del web, la forma più primordiale che distingue il testo digitale da quello cartaceo.
+Dopo tutti questi anni dovrebbe essere ormai chiaro come costruire l&amp;rsquo;etichetta di un link, eppure&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;E dire che un link ambiguo è indigesto ai motori di ricerca almeno tanto quanto lo è per le persone con handicap.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;I link devono essere &lt;strong&gt;parlanti&lt;/strong&gt;, ne va dell&amp;rsquo;accessibilità e dell&amp;rsquo;usabilità del nostro prodotto web.&lt;/p&gt;
+
+&lt;p&gt;Un link &lt;em&gt;parlante&lt;/em&gt; è un collegamento la cui etichetta &lt;strong&gt;indica in modo chiaro a cosa serve&lt;/strong&gt;.
+Questo perché chi ha difficoltà visive potrebbe non cogliere elementi del contesto che spiegano lo scopo del link.&lt;/p&gt;
+
+&lt;p&gt;Prendiamo ad esempio un testo e aggiungiamo un link:&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Leggi
+&lt;a href=&#34;https://mignamis.github.io/post/articoli/link-parlanti/&#34;&gt;questo&lt;/a&gt;
+articolo sui link parlanti&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Ecco come lo percepisce un utente cieco che naviga la pagina con uno screen reader.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Questo, link&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Il link &amp;ldquo;questo&amp;rdquo; non da nessuna informazione, è &lt;strong&gt;ambiguo&lt;/strong&gt;.
+L&amp;rsquo;utente deve quindi capire da sé a cosa serve, magari è proprio ciò che gli serve ma non lo può sapere a meno che non ispezioni le vicinanze alla ricerca di indizi che gli facciano capire che è proprio quello che sta cercando.&lt;/p&gt;
+
+&lt;p&gt;In questo caso è facile perché, leggendo il testo prima di esso, l&amp;rsquo;utente può dedurre che si tratta di un collegamento ad un articolo.&lt;/p&gt;
+
+&lt;p&gt;Ma non sempre è facile capire a cosa serva un link, specialmente se l&amp;rsquo;utente non può fare affidamento sulla vista.&lt;/p&gt;
+
+&lt;h2 id=&#34;come-posso-rendere-un-link-parlante-se-è-integrato-in-un-testo&#34;&gt;Come posso rendere un link &amp;ldquo;parlante&amp;rdquo; se è integrato in un testo?&lt;/h2&gt;
+
+&lt;p&gt;Vero, se un link non fa parte di un testo di senso compiuto è più facile.
+Nel caso di prima, il testo stesso ci viene in aiuto per rendere il link esplicito:&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Leggi questo
+&lt;a href=&#34;https://mignamis.github.io/post/articoli/link-parlanti/&#34;&gt;articolo sui link parlanti&lt;/a&gt;
+&amp;ldquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;ok-e-se-proprio-non-posso-renderlo-parlante&#34;&gt;Ok, e se proprio non posso renderlo &amp;ldquo;parlante&amp;rdquo;?&lt;/h2&gt;
+
+&lt;p&gt;Capita, magari per motivi estetici, o per mille altre ragioni.
+Non sempre si può rendere esplicito un link.&lt;/p&gt;
+
+&lt;p&gt;Per esempio, nella home di questo sito gli articoli sono mostrati in versione &amp;ldquo;ristretta&amp;rdquo;, mentre cliccando su &amp;ldquo;continua&amp;rdquo; si legge il testo per intero.
+Sarebbe poco logico aggiungere il titolo ad ognuno di questi link&amp;hellip;almeno, visivamente.&lt;/p&gt;
+
+&lt;p&gt;Ma puoi leggere quest&amp;rsquo;altro post in cui spiego
+&lt;a href=&#34;https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/&#34;&gt;come sovrascrivere l&amp;rsquo;etichetta di un link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Un faro per i naviganti</title>
+      <link>https://mignamis.github.io/post/articoli/faro-per-naviganti/</link>
+      <pubDate>Mon, 15 Jan 2018 11:56:02 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/faro-per-naviganti/</guid>
+      
+        <description>&lt;p&gt;Navigare un sito web può essere una gran rottura di scatole per diverse tipologie di utenti.&lt;/p&gt;
+
+&lt;p&gt;Eppure basta davvero poco per agevolarle, vediamo come fare.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;In pratica dobbiamo segnalare che una parte della pagina è adibita alla navigazione: di solito questa regione contiene una lista di link.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;nav&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+  Home
+  Shop
+  Contatto
+&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;nav&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Visto? Non è così difficile, eppure delimitando la regione di navigazione del sito agevoliamo diversi utenti.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Persone &lt;strong&gt;deboli di vista&lt;/strong&gt; che fanno uso di uno screen reader: con una combinazione di tasti possono infatti saltare alla sezione di navigazione di una pagina web, evitando loro di doverla cercare o di indovinare quale sia.&lt;/li&gt;
+&lt;li&gt;Persone con &lt;strong&gt;difficoltà motorie&lt;/strong&gt; che navigano utilizzando solo la tastiera, in modo che possano arrivarci con una combinazione di tasti.&lt;/li&gt;
+&lt;li&gt;Persone che interagiscono con il web unicamente &lt;strong&gt;con la propria voce&lt;/strong&gt;, per la stessa ragione.&lt;/li&gt;
+&lt;li&gt;Motori di ricerca che possono prelevare più facilmente i link da dare in pasto ai propri crawler.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il
+&lt;a href=&#34;https://www.w3schools.com/tags/tag_nav.asp&#34;&gt;tag nav&lt;/a&gt;
+è uno standard HTML5, perciò perfettamente supportato dai validatori di codice e dalla maggior parte dei browser.&lt;/p&gt;
+
+&lt;h2 id=&#34;cosa-può-essere-indicato-come-nav&#34;&gt;Cosa può essere indicato come &lt;em&gt;nav&lt;/em&gt;?&lt;/h2&gt;
+
+&lt;p&gt;Ecco alcuni elementi che possono essere considerati dei menu di navigazione, per agevolare l&amp;rsquo;utente:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Menu secondari fuori da quello principale.&lt;/li&gt;
+&lt;li&gt;Sommari (&lt;em&gt;tables of content&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;Widget di paginazione, come quelli in fondo alla pagina principale di questo sito.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;shortcode-notice note&#34;&gt;
+  &lt;div class=&#34;shortcode-notice-title note&#34;&gt;
+    
+      Nota bene
+    
+  &lt;/div&gt;
+  &lt;p&gt;I menu di secondo livello non devono essere racchiusi a loro volta in un tag &lt;em&gt;nav&lt;/em&gt;.&lt;/p&gt;
+
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Dare un nome ai menu di navigazione</title>
+      <link>https://mignamis.github.io/post/articoli/nav-nome/</link>
+      <pubDate>Mon, 15 Jan 2018 11:50:21 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/nav-nome/</guid>
+      
+        <description>&lt;p&gt;Capita che ci siano più menu per navigare un sito.
+Magari uno di primo livello, con le sezioni principali del sito, e uno secondario con la navigazione delle sotto-sezioni.&lt;/p&gt;
+
+&lt;p&gt;Ecco come possiamo dare loro un nome, rendendo esplicito il loro scopo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Abbiamo già parlato dei menu di navigazione e di come etichettare elementi per renderli più accessibili agli screen reader.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mignamis.github.io/post/articoli/faro-per-naviganti/&#34;&gt;Articolo sui menu di navigazione&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/&#34;&gt;Articolo sulle etichette per screen reader&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Possiamo unire le due cose per ottenere dei menu di navigazione più chiari.
+Per esempio, se abbiamo un sommario:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;nav&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;aria-label&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Menu principale&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;nav&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+...
+&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;nav&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;aria-label&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Indice dei contenuti&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+  Capitolo 1
+  Capitolo 2
+  ...
+&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;nav&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Un computer può quindi ricostruirsi la struttura della pagina, il cui scheletro è composto da regioni che indicano chiaramente il loro scopo.&lt;/p&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://mignamis.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://mignamis.github.io/images/landmark-navigazione.png&#34; alt=&#34;Elenco di regioni di una pagina, dove è indicato chiaramente il menu principale e l&amp;#39;indice dei contenuti&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://mignamis.github.io/images/landmark-navigazione.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Elenco delle regioni di una pagina, con i menu di navigazione resi espliciti dal nome&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;shortcode-notice warning&#34;&gt;
+  &lt;div class=&#34;shortcode-notice-title warning&#34;&gt;
+    
+      Attenzione
+    
+  &lt;/div&gt;
+  &lt;p&gt;Se nella pagina sono presenti due o più menu di navigazione &lt;strong&gt;senza&lt;/strong&gt; un&amp;rsquo;etichetta, è considerato un errore dai principali validatori di accessibilità.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;devo-farlo-anche-quando-ho-un-solo-menu-di-navigazione&#34;&gt;Devo farlo anche quando ho un solo menu di navigazione?&lt;/h2&gt;
+
+&lt;p&gt;Se il menu è solo uno per pagina, aggiungere l&amp;rsquo;etichetta è a tua discrezione.
+Migliora l&amp;rsquo;esperienza utente.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sovrascrivere Le Etichette Con La Forza</title>
+      <link>https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/</link>
+      <pubDate>Fri, 29 Sep 2017 10:54:55 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/</guid>
+      
+        <description>&lt;p&gt;Ci sono volte in cui un&amp;rsquo;informazione è intuitiva per le persone che ci vedono, come ad esempio un&amp;rsquo;icona.
+Ma per chi ci vede poco, o non ci vede del tutto, come possiamo trasmettere la stessa informazione senza stravolgere la pagina?&lt;/p&gt;
+
+&lt;p&gt;In questo articolo vediamo come rendere accessibile agli screen reader informazioni complesse, deducibili solo da esseri umani.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Prendiamo il caso del link &amp;ldquo;Torna alla home page&amp;rdquo;: è ormai diffusa l&amp;rsquo;icona della &amp;ldquo;casetta&amp;rdquo;.
+Basta quindi creare un link che la mostri, perché ogni utente sappia che cliccandoci sarà riportato alla pagina principale.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;href&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;home.php&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;span&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;glyphicon glyphicon-home&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;span&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Qual è il problema? Lo &lt;em&gt;span&lt;/em&gt;, a differenza delle immagini, non ha un testo associato.
+Ecco come è percepito questo link da una macchina.&lt;/p&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://mignamis.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://mignamis.github.io/images/Icona-senza-etichetta.png&#34; alt=&#34;Il link per tornare alla home page ha una icona ma non etichetta.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://mignamis.github.io/images/Icona-senza-etichetta.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Il link per tornare alla home page ha una icona ma non etichetta.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Come facciamo a dare un&amp;rsquo;etichetta leggibile a questo link, per permettere a chi non ci vede (e ad uno spider di Google), di capire a cosa serve?
+Usiamo un attributo speciale che permette di inserire informazioni invisibili ad occhio nudo, ma perfettamente accessibili ad una macchina.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;span&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;aria-label&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Home page&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;glyphicon glyphicon-home&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;span&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://mignamis.github.io/images/Icona-con-etichetta.png&#34; alt=&#34;Cliccando sulla casetta si torna alla home page. La finestra a fianco mostra l&amp;#39;elenco dei link della pagina.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://mignamis.github.io/images/Icona-con-etichetta.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Cliccando sulla casetta si torna alla home page. La finestra a fianco mostra l&amp;#39;elenco dei link della pagina.&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;shortcode-notice warning&#34;&gt;
+  &lt;div class=&#34;shortcode-notice-title warning&#34;&gt;
+    
+      Attenzione
+    
+  &lt;/div&gt;
+  &lt;p&gt;I link senza testo, come quello con l&amp;rsquo;icona Home, possono penalizzare la SEO perché considerati &amp;ldquo;non descrittivi&amp;rdquo;.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;come-funziona-aria-label&#34;&gt;Come funziona &lt;em&gt;aria-label&lt;/em&gt;?&lt;/h2&gt;
+
+&lt;p&gt;L&amp;rsquo;attributo &lt;em&gt;aria-label&lt;/em&gt; sovrascrive la rappresentazione testuale dell&amp;rsquo;elemento.
+È utile in circostanze dove la normale descrizione non è sufficiente oppure può confondere.&lt;/p&gt;
+
+&lt;p&gt;Per esempio si usa per:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dare un&amp;rsquo;etichetta ad un link che non contiene testo, come vediamo in questo
+&lt;a href=&#34;https://mignamis.github.io/post/articoli/link-parlanti/&#34;&gt;articolo sui link parlanti&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;Attribuire il nome ad un campo di testo che, per ragioni estetiche, non lo ha. Ad esempio, nel caso di un campo di ricerca dove il suo  scopo è palesato dall&amp;rsquo;icona della ricerca.&lt;/li&gt;
+&lt;li&gt;Rendere esplicito il contenuto di una regione della pagina, come vediamo in questo
+&lt;a href=&#34;https://mignamis.github.io/post/articoli/nav-nome/&#34;&gt;articolo sui landmark di navigazione&lt;/a&gt;
+.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;shortcode-notice warning&#34;&gt;
+  &lt;div class=&#34;shortcode-notice-title warning&#34;&gt;
+    
+      Attenzione
+    
+  &lt;/div&gt;
+  &lt;p&gt;Si scrive &lt;strong&gt;ARIA&lt;/strong&gt; e non &lt;strong&gt;ARIAL&lt;/strong&gt;.
+Dopo 8 ore di lavoro capita che scappi una &amp;ldquo;L&amp;rdquo; da &amp;ldquo;label&amp;rdquo; e vada a finire in &amp;ldquo;aria&amp;rdquo;, ma scrivendo &amp;ldquo;arial-label&amp;rdquo; l&amp;rsquo;etichetta non funziona.
+Sembra banale, ma è un errore che capita più spesso di quanto si pensi.&lt;/p&gt;
+
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Titoli O Intestazioni?</title>
+      <link>https://mignamis.github.io/post/articoli/titoli-o-intestazioni/</link>
+      <pubDate>Fri, 29 Sep 2017 10:51:12 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/titoli-o-intestazioni/</guid>
+      
+        <description>&lt;p&gt;Questo articolo chiarisce alcuni termini usati dagli addetti ai lavori: &lt;em&gt;titoli&lt;/em&gt;, &lt;em&gt;heading&lt;/em&gt;, &lt;em&gt;title&lt;/em&gt; e &lt;em&gt;intestazioni&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;titolo-della-pagina&#34;&gt;Titolo della pagina&lt;/h2&gt;
+
+&lt;p&gt;Il titolo della pagina è mostrato nella scheda del browser ed è definito utilizzando il tag &lt;em&gt;title&lt;/em&gt; nella &lt;em&gt;head&lt;/em&gt; del documento:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+  ...
+  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Home page | MioSito.com&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Il titolo di una pagina è più importante di quanto si creda: gli screen reader lo leggono infatti come prima cosa quando una pagina è caricata, permettendo all&amp;rsquo;utente con difficoltà &lt;strong&gt;visive&lt;/strong&gt; di capire dove si trova.&lt;/p&gt;
+
+&lt;p&gt;Anche gli utenti con difficoltà &lt;strong&gt;cognitive&lt;/strong&gt; ne traggono vantaggio, perché li aiuta ad orientarsi all&amp;rsquo;interno del sito.&lt;/p&gt;
+
+&lt;h2 id=&#34;attributo-title&#34;&gt;Attributo &lt;em&gt;title&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;Da non confondere con il &lt;em&gt;titolo della pagina&lt;/em&gt;, l&amp;rsquo;attributo &lt;em&gt;title&lt;/em&gt; è associato ad un tag e può essere usato per aggiungere informazioni:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;href&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;...&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Questo link si apre in una nuova finestra&amp;#34;&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Ci si riferisce a questo attributo chiamandolo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Title attribute&lt;/li&gt;
+&lt;li&gt;Attributo title&lt;/li&gt;
+&lt;li&gt;Attributo titolo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;shortcode-notice note&#34;&gt;
+  &lt;div class=&#34;shortcode-notice-title note&#34;&gt;
+    
+      Nota bene
+    
+  &lt;/div&gt;
+  &lt;p&gt;Da buoni informatici siamo legittimati a farcire di inglesismi la nostra parlata, quindi se si mescola italiano e inglese nessuno avrà nulla da obiettare.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;heading&#34;&gt;Heading&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Intestazioni&lt;/strong&gt; in italiano, sono talvolta conosciuti come &amp;ldquo;titoli di livello x&amp;rdquo;, dove &amp;ldquo;x&amp;rdquo; è un numero da 1 a 6.&lt;/p&gt;
+
+&lt;p&gt;In generale, definirli &amp;ldquo;heading&amp;rdquo; permette di distinguerli dal titolo della pagina o dall&amp;rsquo;attributo &lt;em&gt;title&lt;/em&gt;.
+In questo sito, quando si parla di &lt;em&gt;heading di livello 2&lt;/em&gt;, si intenderà proprio i titoli di questo genere.&lt;/p&gt;
+
+&lt;h2 id=&#34;table-heading&#34;&gt;Table heading&lt;/h2&gt;
+
+&lt;p&gt;L&amp;rsquo;intestazione di una tabella è la riga che definisce il nome delle colonne.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Riga di intestazione&lt;/th&gt;
+&lt;th&gt;oppure&lt;/th&gt;
+&lt;th&gt;Table heading&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Colonna 1&lt;/td&gt;
+&lt;td&gt;Colonna 2&lt;/td&gt;
+&lt;td&gt;Colonna 3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Vale anche per le tabelle orizzontali.&lt;/p&gt;</description>
+      
     </item>
     
   </channel>

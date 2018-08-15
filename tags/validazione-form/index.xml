@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Validazione Form on Websive</title>
+    <link>https://mignamis.github.io/tags/validazione-form/</link>
+    <description>Recent content in Validazione Form on Websive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Mon, 14 May 2018 16:11:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://mignamis.github.io/tags/validazione-form/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inserire errori nel titolo della pagina è una cosa buona</title>
+      <link>https://mignamis.github.io/post/articoli/errori-nel-titolo/</link>
+      <pubDate>Mon, 14 May 2018 16:11:34 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/errori-nel-titolo/</guid>
+      <description>&lt;p&gt;No, non sono diventato eretico né intendo suggerire comportamenti autolesionistici.&lt;/p&gt;
+
+&lt;p&gt;Durante la validazione di un form può davvero essere utile modificare il titolo della pagina, vediamo il perché.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

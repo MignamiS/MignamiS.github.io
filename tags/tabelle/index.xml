@@ -1,40 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tabelle on WebASD</title>
+    <title>Tabelle on Websive</title>
     <link>https://mignamis.github.io/tags/tabelle/</link>
-    <description>Recent content in Tabelle on WebASD</description>
+    <description>Recent content in Tabelle on Websive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 11 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Wed, 18 Apr 2018 12:01:49 +0200</lastBuildDate>
     
 	<atom:link href="https://mignamis.github.io/tags/tabelle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Il Medioevo dell&#39;impaginazione</title>
-      <link>https://mignamis.github.io/2017/10/il-medioevo-dellimpaginazione/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <title>La peggior maledizione? Le tabelle senza intestazione</title>
+      <link>https://mignamis.github.io/post/articoli/intestazione-tabelle/</link>
+      <pubDate>Wed, 18 Apr 2018 12:01:49 +0200</pubDate>
       
-      <guid>https://mignamis.github.io/2017/10/il-medioevo-dellimpaginazione/</guid>
-      <description>&lt;p&gt;Nei &amp;ldquo;secoli bui&amp;rdquo; del web, quando ancora struttura e stile condividevano lo stesso documento, venivano usate le tabelle per gestire il layout della pagina.
-Ancora oggi si possono trovare porzioni di pagina che utilizzano una tabella per posizionare gli elementi secondo un certo schema.&lt;/p&gt;
+      <guid>https://mignamis.github.io/post/articoli/intestazione-tabelle/</guid>
+      <description>&lt;p&gt;Rendere accessibile una tabella è semplice e bastano poche righe di codice.&lt;/p&gt;
 
-&lt;p&gt;Siccome queste abitudini sono dure a morire ecco qualche consiglio su come gestire al meglio queste situazioni dal punto di vista dell&amp;rsquo;accessibilità.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Una tabella senza intestazione è come una barca senza il timone</title>
-      <link>https://mignamis.github.io/2017/10/una-tabella-senza-intestazione-%C3%A8-come-una-barca-senza-il-timone/</link>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mignamis.github.io/2017/10/una-tabella-senza-intestazione-%C3%A8-come-una-barca-senza-il-timone/</guid>
-      <description>&lt;p&gt;Rendere accessibile una tabella è semplice e bastano poche righe di codice.
-Se si trascura questo dettaglio un elenco di dati può diventare un ammasso di numeri e scritte senza nessuna forma, completamente illeggibile.&lt;/p&gt;
-
-&lt;p&gt;In questo articolo approfondiremo le tabelle e il modo per renderle accessibili a tutti: dagli screen reader ai motori  di ricerca.&lt;/p&gt;
+&lt;p&gt;Se si trascura questo dettaglio un insieme di dati può diventare un ammasso di numeri senza forma; illeggibile.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

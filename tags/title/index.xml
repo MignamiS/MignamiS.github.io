@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Title on Websive</title>
+    <link>https://mignamis.github.io/tags/title/</link>
+    <description>Recent content in Title on Websive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Mon, 14 May 2018 16:11:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://mignamis.github.io/tags/title/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inserire errori nel titolo della pagina è una cosa buona</title>
+      <link>https://mignamis.github.io/post/articoli/errori-nel-titolo/</link>
+      <pubDate>Mon, 14 May 2018 16:11:34 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/errori-nel-titolo/</guid>
+      <description>&lt;p&gt;No, non sono diventato eretico né intendo suggerire comportamenti autolesionistici.&lt;/p&gt;
+
+&lt;p&gt;Durante la validazione di un form può davvero essere utile modificare il titolo della pagina, vediamo il perché.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Titoli O Intestazioni?</title>
+      <link>https://mignamis.github.io/post/articoli/titoli-o-intestazioni/</link>
+      <pubDate>Fri, 29 Sep 2017 10:51:12 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/titoli-o-intestazioni/</guid>
+      <description>&lt;p&gt;Questo articolo chiarisce alcuni termini usati dagli addetti ai lavori: &lt;em&gt;titoli&lt;/em&gt;, &lt;em&gt;heading&lt;/em&gt;, &lt;em&gt;title&lt;/em&gt; e &lt;em&gt;intestazioni&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

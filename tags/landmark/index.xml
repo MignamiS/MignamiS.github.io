@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Landmark on WebASD</title>
+    <title>Landmark on Websive</title>
     <link>https://mignamis.github.io/tags/landmark/</link>
-    <description>Recent content in Landmark on WebASD</description>
+    <description>Recent content in Landmark on Websive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 08 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Mon, 15 Jan 2018 11:56:02 +0200</lastBuildDate>
     
 	<atom:link href="https://mignamis.github.io/tags/landmark/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fare in modo che il campo di ricerca non vada cercato</title>
-      <link>https://mignamis.github.io/2017/10/fare-in-modo-che-il-campo-di-ricerca-non-vada-cercato/</link>
-      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Un faro per i naviganti</title>
+      <link>https://mignamis.github.io/post/articoli/faro-per-naviganti/</link>
+      <pubDate>Mon, 15 Jan 2018 11:56:02 +0200</pubDate>
       
-      <guid>https://mignamis.github.io/2017/10/fare-in-modo-che-il-campo-di-ricerca-non-vada-cercato/</guid>
-      <description>&lt;p&gt;Chi come me fa fatica a saltare da una parte all&amp;rsquo;altra di un sito, cercando di decifrare la logica dell&amp;rsquo;organizzazione delle informazioni, spesso utilizza Google per arrivare alla pagina che gli interessa.
-Basta digitare poche parole chiave e, solitamente, il primo risultato della ricerca è quello desiderato.&lt;/p&gt;
+      <guid>https://mignamis.github.io/post/articoli/faro-per-naviganti/</guid>
+      <description>&lt;p&gt;Navigare un sito web può essere una gran rottura di scatole per diverse tipologie di utenti.&lt;/p&gt;
 
-&lt;p&gt;Da webmaster però mi accorgo che questo comportamento diffuso riduce il traffico nelle pagine e di conseguenza gli introiti.
-Così si introducono motori di ricerca interni, ma come fare a renderli veramente accessibili e utili a mantenere l&amp;rsquo;utente nelle nostre pagine.&lt;/p&gt;
-
-&lt;p&gt;In questo articolo la risposta alla domanda, tutt&amp;rsquo;altro che scontata.&lt;/p&gt;
+&lt;p&gt;Eppure basta davvero poco per agevolarle, vediamo come fare.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

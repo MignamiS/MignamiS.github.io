@@ -1,29 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Link on WebASD</title>
+    <title>Link on Websive</title>
     <link>https://mignamis.github.io/tags/link/</link>
-    <description>Recent content in Link on WebASD</description>
+    <description>Recent content in Link on Websive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 07 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Thu, 22 Mar 2018 11:57:15 +0200</lastBuildDate>
     
 	<atom:link href="https://mignamis.github.io/tags/link/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Costruire link adatti</title>
-      <link>https://mignamis.github.io/2017/10/costruire-link-adatti/</link>
-      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      <title>I link parlanti sono buoni consiglieri</title>
+      <link>https://mignamis.github.io/post/articoli/link-parlanti/</link>
+      <pubDate>Thu, 22 Mar 2018 11:57:15 +0200</pubDate>
       
-      <guid>https://mignamis.github.io/2017/10/costruire-link-adatti/</guid>
-      <description>&lt;p&gt;Una delle componenti base dell&amp;rsquo;accessibilità di un sito web è la navigazione in esso.
-I &lt;strong&gt;link&lt;/strong&gt; permettono di spostarci da una parte all&amp;rsquo;altra, ma quando sono ambigui possono creare vere e proprie barriere persino ad utenti esperti.&lt;/p&gt;
+      <guid>https://mignamis.github.io/post/articoli/link-parlanti/</guid>
+      <description>&lt;p&gt;I link sono il cuore del web, la forma più primordiale che distingue il testo digitale da quello cartaceo.
+Dopo tutti questi anni dovrebbe essere ormai chiaro come costruire l&amp;rsquo;etichetta di un link, eppure&amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;Un esempio? provare a scaricare uno di quei software gratuiti ed evitare tutti i banner pubblicitari che dicono &amp;ldquo;scarica!&amp;rdquo; e &amp;ldquo;download&amp;rdquo;.
-Confondere l&amp;rsquo;utente per questi siti è la prassi così &lt;strong&gt;CASUALMENTE&lt;/strong&gt; prima di trovare quello che cerca si fa un bel giretto e fa guadagnare soldi al gestore.&lt;/p&gt;
+&lt;p&gt;E dire che un link ambiguo è indigesto ai motori di ricerca almeno tanto quanto lo è per le persone con handicap.&lt;/p&gt;
 
-&lt;p&gt;Ma tu non sei uno di questi gestori disonesti, vero? VERO??? Bene, ecco qualche suggerimento per creare dei link che siano accessibili.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sovrascrivere Le Etichette Con La Forza</title>
+      <link>https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/</link>
+      <pubDate>Fri, 29 Sep 2017 10:54:55 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/</guid>
+      <description>&lt;p&gt;Ci sono volte in cui un&amp;rsquo;informazione è intuitiva per le persone che ci vedono, come ad esempio un&amp;rsquo;icona.
+Ma per chi ci vede poco, o non ci vede del tutto, come possiamo trasmettere la stessa informazione senza stravolgere la pagina?&lt;/p&gt;
+
+&lt;p&gt;In questo articolo vediamo come rendere accessibile agli screen reader informazioni complesse, deducibili solo da esseri umani.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

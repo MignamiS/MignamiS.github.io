@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on WebASD</title>
+    <title>Categories on Websive</title>
     <link>https://mignamis.github.io/categories/</link>
-    <description>Recent content in Categories on WebASD</description>
+    <description>Recent content in Categories on Websive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Wed, 15 Aug 2018 16:15:42 +0200</lastBuildDate>
     
 	<atom:link href="https://mignamis.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Articoli</title>
+      <link>https://mignamis.github.io/categories/articoli/</link>
+      <pubDate>Wed, 15 Aug 2018 16:15:42 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/categories/articoli/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

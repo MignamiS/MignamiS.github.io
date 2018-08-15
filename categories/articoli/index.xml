@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articoli on Websive</title>
+    <link>https://mignamis.github.io/categories/articoli/</link>
+    <description>Recent content in Articoli on Websive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Wed, 15 Aug 2018 16:15:42 +0200</lastBuildDate>
+    
+	<atom:link href="https://mignamis.github.io/categories/articoli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appiccicare una descrizione ad un elemento</title>
+      <link>https://mignamis.github.io/post/articoli/aria-describedby/</link>
+      <pubDate>Wed, 15 Aug 2018 16:15:42 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/aria-describedby/</guid>
+      <description>&lt;p&gt;Un attributo che ci può levare d&amp;rsquo;impaccio in alcune situazioni spinose.&lt;/p&gt;
+
+&lt;p&gt;Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Effetto Testo più Grande</title>
+      <link>https://mignamis.github.io/post/articoli/effetto-testo-grande/</link>
+      <pubDate>Wed, 15 Aug 2018 16:13:40 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/effetto-testo-grande/</guid>
+      <description>&lt;p&gt;Ecco qualche buona ragione per evitare di utilizzare i tag heading per ottenere un effetto di &amp;ldquo;testo più grande&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Ammettiamolo, ogni tanto abbiamo riciclato un H4 o un H5 per dare al volo uno stile ad un elemento di contorno, oppure per far risaltare un frammento di testo.
+Ma perché è una cattiva idea?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Inserire errori nel titolo della pagina è una cosa buona</title>
+      <link>https://mignamis.github.io/post/articoli/errori-nel-titolo/</link>
+      <pubDate>Mon, 14 May 2018 16:11:34 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/errori-nel-titolo/</guid>
+      <description>&lt;p&gt;No, non sono diventato eretico né intendo suggerire comportamenti autolesionistici.&lt;/p&gt;
+
+&lt;p&gt;Durante la validazione di un form può davvero essere utile modificare il titolo della pagina, vediamo il perché.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>La peggior maledizione? Le tabelle senza intestazione</title>
+      <link>https://mignamis.github.io/post/articoli/intestazione-tabelle/</link>
+      <pubDate>Wed, 18 Apr 2018 12:01:49 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/intestazione-tabelle/</guid>
+      <description>&lt;p&gt;Rendere accessibile una tabella è semplice e bastano poche righe di codice.&lt;/p&gt;
+
+&lt;p&gt;Se si trascura questo dettaglio un insieme di dati può diventare un ammasso di numeri senza forma; illeggibile.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Le molte facce dello stesso campo</title>
+      <link>https://mignamis.github.io/post/articoli/input-type/</link>
+      <pubDate>Wed, 11 Apr 2018 11:56:02 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/input-type/</guid>
+      <description>&lt;p&gt;Html5 ha introdotto nuovi tipi di input, perfettamente retro-compatibili e assolutamente da provare.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I link parlanti sono buoni consiglieri</title>
+      <link>https://mignamis.github.io/post/articoli/link-parlanti/</link>
+      <pubDate>Thu, 22 Mar 2018 11:57:15 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/link-parlanti/</guid>
+      <description>&lt;p&gt;I link sono il cuore del web, la forma più primordiale che distingue il testo digitale da quello cartaceo.
+Dopo tutti questi anni dovrebbe essere ormai chiaro come costruire l&amp;rsquo;etichetta di un link, eppure&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;E dire che un link ambiguo è indigesto ai motori di ricerca almeno tanto quanto lo è per le persone con handicap.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Un faro per i naviganti</title>
+      <link>https://mignamis.github.io/post/articoli/faro-per-naviganti/</link>
+      <pubDate>Mon, 15 Jan 2018 11:56:02 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/faro-per-naviganti/</guid>
+      <description>&lt;p&gt;Navigare un sito web può essere una gran rottura di scatole per diverse tipologie di utenti.&lt;/p&gt;
+
+&lt;p&gt;Eppure basta davvero poco per agevolarle, vediamo come fare.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dare un nome ai menu di navigazione</title>
+      <link>https://mignamis.github.io/post/articoli/nav-nome/</link>
+      <pubDate>Mon, 15 Jan 2018 11:50:21 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/nav-nome/</guid>
+      <description>&lt;p&gt;Capita che ci siano più menu per navigare un sito.
+Magari uno di primo livello, con le sezioni principali del sito, e uno secondario con la navigazione delle sotto-sezioni.&lt;/p&gt;
+
+&lt;p&gt;Ecco come possiamo dare loro un nome, rendendo esplicito il loro scopo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sovrascrivere Le Etichette Con La Forza</title>
+      <link>https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/</link>
+      <pubDate>Fri, 29 Sep 2017 10:54:55 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/</guid>
+      <description>&lt;p&gt;Ci sono volte in cui un&amp;rsquo;informazione è intuitiva per le persone che ci vedono, come ad esempio un&amp;rsquo;icona.
+Ma per chi ci vede poco, o non ci vede del tutto, come possiamo trasmettere la stessa informazione senza stravolgere la pagina?&lt;/p&gt;
+
+&lt;p&gt;In questo articolo vediamo come rendere accessibile agli screen reader informazioni complesse, deducibili solo da esseri umani.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Titoli O Intestazioni?</title>
+      <link>https://mignamis.github.io/post/articoli/titoli-o-intestazioni/</link>
+      <pubDate>Fri, 29 Sep 2017 10:51:12 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/post/articoli/titoli-o-intestazioni/</guid>
+      <description>&lt;p&gt;Questo articolo chiarisce alcuni termini usati dagli addetti ai lavori: &lt;em&gt;titoli&lt;/em&gt;, &lt;em&gt;heading&lt;/em&gt;, &lt;em&gt;title&lt;/em&gt; e &lt;em&gt;intestazioni&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

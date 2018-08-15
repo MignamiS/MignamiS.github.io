@@ -1,43 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Semantica on WebASD</title>
+    <title>Semantica on Websive</title>
     <link>https://mignamis.github.io/tags/semantica/</link>
-    <description>Recent content in Semantica on WebASD</description>
+    <description>Recent content in Semantica on Websive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 08 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Wed, 15 Aug 2018 16:13:40 +0200</lastBuildDate>
     
 	<atom:link href="https://mignamis.github.io/tags/semantica/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fare in modo che il campo di ricerca non vada cercato</title>
-      <link>https://mignamis.github.io/2017/10/fare-in-modo-che-il-campo-di-ricerca-non-vada-cercato/</link>
-      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Effetto Testo più Grande</title>
+      <link>https://mignamis.github.io/post/articoli/effetto-testo-grande/</link>
+      <pubDate>Wed, 15 Aug 2018 16:13:40 +0200</pubDate>
       
-      <guid>https://mignamis.github.io/2017/10/fare-in-modo-che-il-campo-di-ricerca-non-vada-cercato/</guid>
-      <description>&lt;p&gt;Chi come me fa fatica a saltare da una parte all&amp;rsquo;altra di un sito, cercando di decifrare la logica dell&amp;rsquo;organizzazione delle informazioni, spesso utilizza Google per arrivare alla pagina che gli interessa.
-Basta digitare poche parole chiave e, solitamente, il primo risultato della ricerca è quello desiderato.&lt;/p&gt;
+      <guid>https://mignamis.github.io/post/articoli/effetto-testo-grande/</guid>
+      <description>&lt;p&gt;Ecco qualche buona ragione per evitare di utilizzare i tag heading per ottenere un effetto di &amp;ldquo;testo più grande&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;Da webmaster però mi accorgo che questo comportamento diffuso riduce il traffico nelle pagine e di conseguenza gli introiti.
-Così si introducono motori di ricerca interni, ma come fare a renderli veramente accessibili e utili a mantenere l&amp;rsquo;utente nelle nostre pagine.&lt;/p&gt;
-
-&lt;p&gt;In questo articolo la risposta alla domanda, tutt&amp;rsquo;altro che scontata.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Una tabella senza intestazione è come una barca senza il timone</title>
-      <link>https://mignamis.github.io/2017/10/una-tabella-senza-intestazione-%C3%A8-come-una-barca-senza-il-timone/</link>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mignamis.github.io/2017/10/una-tabella-senza-intestazione-%C3%A8-come-una-barca-senza-il-timone/</guid>
-      <description>&lt;p&gt;Rendere accessibile una tabella è semplice e bastano poche righe di codice.
-Se si trascura questo dettaglio un elenco di dati può diventare un ammasso di numeri e scritte senza nessuna forma, completamente illeggibile.&lt;/p&gt;
-
-&lt;p&gt;In questo articolo approfondiremo le tabelle e il modo per renderle accessibili a tutti: dagli screen reader ai motori  di ricerca.&lt;/p&gt;
+&lt;p&gt;Ammettiamolo, ogni tanto abbiamo riciclato un H4 o un H5 per dare al volo uno stile ad un elemento di contorno, oppure per far risaltare un frammento di testo.
+Ma perché è una cattiva idea?&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

@@ -1,94 +1,158 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on WebASD</title>
+    <title>Tags on Websive</title>
     <link>https://mignamis.github.io/tags/</link>
-    <description>Recent content in Tags on WebASD</description>
+    <description>Recent content in Tags on Websive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 11 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>Simone Mignami</copyright>
+    <lastBuildDate>Wed, 15 Aug 2018 16:15:42 +0200</lastBuildDate>
     
 	<atom:link href="https://mignamis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Curiosità</title>
-      <link>https://mignamis.github.io/tags/curiosit%C3%A0/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Aria Describedby</title>
+      <link>https://mignamis.github.io/tags/aria-describedby/</link>
+      <pubDate>Wed, 15 Aug 2018 16:15:42 +0200</pubDate>
       
-      <guid>https://mignamis.github.io/tags/curiosit%C3%A0/</guid>
+      <guid>https://mignamis.github.io/tags/aria-describedby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aria Label</title>
+      <link>https://mignamis.github.io/tags/aria-label/</link>
+      <pubDate>Mon, 15 Jan 2018 11:50:21 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/tags/aria-label/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Form</title>
+      <link>https://mignamis.github.io/tags/form/</link>
+      <pubDate>Mon, 14 May 2018 16:11:34 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/tags/form/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heading</title>
+      <link>https://mignamis.github.io/tags/heading/</link>
+      <pubDate>Wed, 15 Aug 2018 16:13:40 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/tags/heading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Input</title>
+      <link>https://mignamis.github.io/tags/input/</link>
+      <pubDate>Wed, 11 Apr 2018 11:56:02 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/tags/input/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Landmark</title>
       <link>https://mignamis.github.io/tags/landmark/</link>
-      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jan 2018 11:56:02 +0200</pubDate>
       
       <guid>https://mignamis.github.io/tags/landmark/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Layout</title>
-      <link>https://mignamis.github.io/tags/layout/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mignamis.github.io/tags/layout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Link</title>
       <link>https://mignamis.github.io/tags/link/</link>
-      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Mar 2018 11:57:15 +0200</pubDate>
       
       <guid>https://mignamis.github.io/tags/link/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ricerca</title>
-      <link>https://mignamis.github.io/tags/ricerca/</link>
-      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Mobile</title>
+      <link>https://mignamis.github.io/tags/mobile/</link>
+      <pubDate>Wed, 11 Apr 2018 11:56:02 +0200</pubDate>
       
-      <guid>https://mignamis.github.io/tags/ricerca/</guid>
+      <guid>https://mignamis.github.io/tags/mobile/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Role</title>
-      <link>https://mignamis.github.io/tags/role/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Nav</title>
+      <link>https://mignamis.github.io/tags/nav/</link>
+      <pubDate>Mon, 15 Jan 2018 11:56:02 +0200</pubDate>
       
-      <guid>https://mignamis.github.io/tags/role/</guid>
+      <guid>https://mignamis.github.io/tags/nav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigazione</title>
+      <link>https://mignamis.github.io/tags/navigazione/</link>
+      <pubDate>Mon, 15 Jan 2018 11:56:02 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/tags/navigazione/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantica</title>
       <link>https://mignamis.github.io/tags/semantica/</link>
-      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Aug 2018 16:13:40 +0200</pubDate>
       
       <guid>https://mignamis.github.io/tags/semantica/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stile</title>
-      <link>https://mignamis.github.io/tags/stile/</link>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Tabelle</title>
+      <link>https://mignamis.github.io/tags/tabelle/</link>
+      <pubDate>Wed, 18 Apr 2018 12:01:49 +0200</pubDate>
       
-      <guid>https://mignamis.github.io/tags/stile/</guid>
+      <guid>https://mignamis.github.io/tags/tabelle/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tabelle</title>
-      <link>https://mignamis.github.io/tags/tabelle/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Title</title>
+      <link>https://mignamis.github.io/tags/title/</link>
+      <pubDate>Mon, 14 May 2018 16:11:34 +0200</pubDate>
       
-      <guid>https://mignamis.github.io/tags/tabelle/</guid>
+      <guid>https://mignamis.github.io/tags/title/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Titolo</title>
+      <link>https://mignamis.github.io/tags/titolo/</link>
+      <pubDate>Mon, 14 May 2018 16:11:34 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/tags/titolo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validazione</title>
+      <link>https://mignamis.github.io/tags/validazione/</link>
+      <pubDate>Wed, 11 Apr 2018 11:56:02 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/tags/validazione/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validazione Form</title>
+      <link>https://mignamis.github.io/tags/validazione-form/</link>
+      <pubDate>Mon, 14 May 2018 16:11:34 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/tags/validazione-form/</guid>
       <description></description>
     </item>
     
