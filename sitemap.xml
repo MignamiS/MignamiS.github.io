@@ -11,14 +11,14 @@
   
   <url>
     <loc>https://mignamis.github.io/post/articoli/aria-describedby/</loc>
-    <lastmod>2018-08-15T16:15:42+02:00</lastmod>
+    <lastmod>2018-08-18T16:15:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://mignamis.github.io/post/articoli/effetto-testo-grande/</loc>
-    <lastmod>2018-08-15T16:13:40+02:00</lastmod>
+    <lastmod>2018-08-18T16:13:40+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -81,7 +81,7 @@
   
   <url>
     <loc>https://mignamis.github.io/tags/aria-describedby/</loc>
-    <lastmod>2018-08-15T16:15:42+02:00</lastmod>
+    <lastmod>2018-08-18T16:15:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -95,28 +95,35 @@
   
   <url>
     <loc>https://mignamis.github.io/categories/articoli/</loc>
-    <lastmod>2018-08-15T16:15:42+02:00</lastmod>
+    <lastmod>2018-08-18T16:15:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mignamis.github.io/categories/</loc>
-    <lastmod>2018-08-15T16:15:42+02:00</lastmod>
+    <lastmod>2018-08-18T16:15:42+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mignamis.github.io/tags/etichette/</loc>
+    <lastmod>2018-08-18T16:15:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mignamis.github.io/tags/form/</loc>
-    <lastmod>2018-05-14T16:11:34+02:00</lastmod>
+    <lastmod>2018-08-18T16:15:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mignamis.github.io/tags/heading/</loc>
-    <lastmod>2018-08-15T16:13:40+02:00</lastmod>
+    <lastmod>2018-08-18T16:13:40+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -165,14 +172,14 @@
   
   <url>
     <loc>https://mignamis.github.io/post/</loc>
-    <lastmod>2018-08-15T16:15:42+02:00</lastmod>
+    <lastmod>2018-08-18T16:15:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mignamis.github.io/tags/semantica/</loc>
-    <lastmod>2018-08-15T16:13:40+02:00</lastmod>
+    <lastmod>2018-08-18T16:13:40+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -186,7 +193,7 @@
   
   <url>
     <loc>https://mignamis.github.io/tags/</loc>
-    <lastmod>2018-08-15T16:15:42+02:00</lastmod>
+    <lastmod>2018-08-18T16:15:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -215,6 +222,13 @@
   <url>
     <loc>https://mignamis.github.io/tags/validazione-form/</loc>
     <lastmod>2018-05-14T16:11:34+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mignamis.github.io/tags/wai-aria/</loc>
+    <lastmod>2018-08-18T16:15:42+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

@@ -66,9 +66,8 @@ In fondo ad ogni pagina ci sono i recapiti necessari.&lt;/p&gt;
       
       <guid>https://mignamis.github.io/post/articoli/aria-describedby/</guid>
       
-        <description>&lt;p&gt;Un attributo che ci può levare d&amp;rsquo;impaccio in alcune situazioni spinose.&lt;/p&gt;
-
-&lt;p&gt;Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.&lt;/p&gt;
+        <description>&lt;p&gt;Un trucchetto che ci può levare d&amp;rsquo;impaccio in alcune situazioni spinose.
+Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
@@ -79,14 +78,28 @@ Per motivi di design questi vincoli sono nascosti all&amp;rsquo;utente e appaion
 
 &lt;ul&gt;
 &lt;li&gt;Usare un testo visibile solo agli screen reader messo prima del campo per spiegare come deve essere composta la password, perché l&amp;rsquo;utente salta da un campo all&amp;rsquo;altro e non può leggerlo.&lt;/li&gt;
-&lt;li&gt;Inserire la spiegazione nell&amp;rsquo;etichetta del campo, perché la renderebbe verbosa e poco estetica.&lt;/li&gt;
+&lt;li&gt;Inserire la spiegazione nell&amp;rsquo;etichetta visibile del campo, perché la renderebbe verbosa e poco estetica.&lt;/li&gt;
 &lt;li&gt;Utilizzare il &lt;em&gt;placeholder&lt;/em&gt;, perché oltre a non essere esteticamente compatibile, può non essere annunciato correttamente dalla sintesi vocale.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Fra tutte le soluzioni che si potrebbero adottare, quella che propongo è l&amp;rsquo;attributo &lt;strong&gt;aria-describedby&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Abbiamo visto in questo
+&lt;a href=&#34;https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/&#34;&gt;articolo su aria-label&lt;/a&gt;
+come è possibile sovrascrivere un&amp;rsquo;etichetta.
+In questo caso, però, abbiamo già tutto quello che ci serve nella pagina e dobbiamo solo informare le tecnologie ausiliarie su dove andare a prendere le informazioni.&lt;/p&gt;
 
-&lt;p&gt;L&amp;rsquo;attributo &lt;em&gt;aria-describedby&lt;/em&gt; permette di aggiungere una descrizione all&amp;rsquo;elemento corrente, in modo che sia annunciata subito dopo l&amp;rsquo;etichetta dell&amp;rsquo;elemento stesso.
-&lt;em&gt;Aria-describedby&lt;/em&gt; contiene la referenza (id) di un elemento, il cui testo è usato per costruire la descrizione.&lt;/p&gt;
+&lt;p&gt;Ecco come viene annunciato il campo dallo screen reader quando è selezionato.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Campo password&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Le istruzioni del fumetto su come deve essere la password sono purtroppo ignorate.&lt;/p&gt;
+
+&lt;p&gt;Come soluzione per informare l&amp;rsquo;utente propongo l&amp;rsquo;attributo &lt;strong&gt;aria-describedby&lt;/strong&gt;.
+Esso permette di aggiungere una descrizione all&amp;rsquo;elemento: quando questo è selezionato dall&amp;rsquo;utente, viene annunciata prima la sua etichetta testuale, poi la descrizione che abbiamo associato.&lt;/p&gt;
+
+&lt;p&gt;Per la descrizione, però, non possiamo usare un testo.
+Dobbiamo invece referenziare attraverso un &lt;strong&gt;id&lt;/strong&gt; un altro elemento della pagina.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -99,13 +112,16 @@ Per motivi di design questi vincoli sono nascosti all&amp;rsquo;utente e appaion
 &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fumetto&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fumetto-password&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Lunghezza minima 8 caratteri, simboli consentiti - e _&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Quando il cursore entra nel campo, viene per esempio annunciato:&lt;/p&gt;
+&lt;p&gt;Il fumetto viene mostrato tramite uno script all&amp;rsquo;utente.
+Siccome possiede un id lo possiamo anche referenziare con &lt;em&gt;aria-describedby&lt;/em&gt;, in modo che il suo contenuto sia letto insieme all&amp;rsquo;etichetta del campo.&lt;/p&gt;
+
+&lt;p&gt;Ecco come appare quindi il nostro campo password ad un utente non-vedente.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Password campo Lunghezza minima 8 caratteri simboli consentiti trattino e trattino basso&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&#34;posso-usare-un-elemento-che-è-nascosto&#34;&gt;Posso usare un elemento che è nascosto?&lt;/h2&gt;
+&lt;h2 id=&#34;posso-usare-un-elemento-nascosto-per-la-descrizione&#34;&gt;Posso usare un elemento nascosto per la descrizione?&lt;/h2&gt;
 
 &lt;p&gt;Sì, anche se l&amp;rsquo;elemento è reso invisibile tramite CSS può essere comunque raggiunto ed utilizzato per la descrizione.&lt;/p&gt;
 
@@ -128,7 +144,7 @@ Per motivi di design questi vincoli sono nascosti all&amp;rsquo;utente e appaion
       
       <guid>https://mignamis.github.io/post/articoli/effetto-testo-grande/</guid>
       
-        <description>&lt;p&gt;Ecco qualche buona ragione per evitare di utilizzare i tag heading per ottenere un effetto di &amp;ldquo;testo più grande&amp;rdquo;.&lt;/p&gt;
+        <description>&lt;p&gt;Ecco una buona ragione per evitare di utilizzare i tag heading per ottenere un effetto di &amp;ldquo;testo più grande&amp;rdquo;.&lt;/p&gt;
 
 &lt;p&gt;Ammettiamolo, ogni tanto abbiamo riciclato un H4 o un H5 per dare al volo uno stile ad un elemento di contorno, oppure per far risaltare un frammento di testo.
 Ma perché è una cattiva idea?&lt;/p&gt;
@@ -146,7 +162,7 @@ Ma anche i motori di ricerca possono trarre beneficio da questo espediente.&lt;/
 &lt;p&gt;Ecco come apparirebbe ad un motore di ricerca una pagina in cui è stato attribuito un H4 per rendere il testo più accattivante:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Home page | comune di Durlindera
+&lt;li&gt;Home page | comune di Springfield
 
 &lt;ul&gt;
 &lt;li&gt;Informazioni&lt;/li&gt;
@@ -157,22 +173,58 @@ Ma anche i motori di ricerca possono trarre beneficio da questo espediente.&lt;/
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Se questo fosse l&amp;rsquo;indice dei contenuti della vostra tesi di laurea, dubito che otterreste il diploma.&lt;/p&gt;
 
-&lt;div class=&#34;shortcode-notice warning&#34;&gt;
-  &lt;div class=&#34;shortcode-notice-title warning&#34;&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://mignamis.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://mignamis.github.io/images/elenco-titoli-spriengfield.png&#34; alt=&#34;Elenco dei titoli, il titolo fuori luogo è evidenziato&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://mignamis.github.io/images/elenco-titoli-spriengfield.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Elenco dei titoli della pagina visti da uno screen reader&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;In questo caso, una possibile correzione può essere:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Home page | comune di Springfield
+
+&lt;ul&gt;
+&lt;li&gt;Informazioni&lt;/li&gt;
+&lt;li&gt;Popolazione&lt;/li&gt;
+&lt;li&gt;Ultime news
+
+&lt;ul&gt;
+&lt;li&gt;Sagra del merluzzo&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Contatti&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;i-tag-h1-h6-sono-solo-per-i-titoli&#34;&gt;I tag H1-H6 sono solo per i titoli&lt;/h2&gt;
+
+&lt;p&gt;Ops è vero, ogni tanto sbaglio anche io&amp;hellip;&lt;/p&gt;
+
+&lt;div class=&#34;shortcode-notice note&#34;&gt;
+  &lt;div class=&#34;shortcode-notice-title note&#34;&gt;
     
       Ricorda
     
   &lt;/div&gt;
-  &lt;p&gt;I tag H1 - H6 sono da usare solo su dei titoli.
-Mai per ottenere un effetto di &amp;ldquo;testo più grande&amp;rdquo;.&lt;/p&gt;
+  &lt;p&gt;I tag H1-H6 sono solo per i titoli&lt;/p&gt;
 
 &lt;/div&gt;
 
 
-&lt;p&gt;Immaginati sempre che gli heading vanno a formare un &lt;em&gt;indice dei contenuti&lt;/em&gt; e che devono essere coerenti con il contenuto della pagina.
-Se un elemento stona con lo scopo della pagina, utilizza un altro tag o stile.&lt;/p&gt;</description>
+&lt;p&gt;Dare il tag di titolo ad un testo per enfatizzarlo è &lt;strong&gt;semanticamente scorretto&lt;/strong&gt;, se questo non è effettivamente un titolo.
+Esistono altri tag per questo, come &lt;code&gt;&amp;lt;strong&amp;gt;&amp;lt;/strong&amp;gt;&lt;/code&gt; e &lt;code&gt;&amp;lt;em&amp;gt;&amp;lt;/em&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Immaginati sempre che gli heading vadano a formare un &lt;em&gt;indice dei contenuti&lt;/em&gt; e che debbano essere coerenti con il contenuto della pagina.
+Se un elemento stona con lo scopo della pagina, come nell&amp;rsquo;esempio di prima, è meglio utilizzare un altro tag.&lt;/p&gt;</description>
       
     </item>
     

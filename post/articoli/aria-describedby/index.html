@@ -25,8 +25,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 
 <meta name="author" content="Simone Mignami" />
-  <meta name="description" content="Un attributo che ci può levare d&amp;rsquo;impaccio in alcune situazioni spinose.
-Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.
+  <meta name="description" content="Un trucchetto che ci può levare d&amp;rsquo;impaccio in alcune situazioni spinose. Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.
 
 " />
 
@@ -61,8 +60,7 @@ Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per r
 
 
 <meta property="og:title" content="Appiccicare una descrizione ad un elemento" />
-<meta property="og:description" content="Un attributo che ci può levare d&rsquo;impaccio in alcune situazioni spinose.
-
+<meta property="og:description" content="Un trucchetto che ci può levare d&rsquo;impaccio in alcune situazioni spinose.
 Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.
 
 " />
@@ -73,7 +71,7 @@ Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per r
 
 <meta property="article:published_time" content="2018-08-15T16:15:42&#43;02:00"/>
 
-<meta property="article:modified_time" content="2018-08-15T16:15:42&#43;02:00"/>
+<meta property="article:modified_time" content="2018-08-18T16:15:42&#43;02:00"/>
 
 
 
@@ -86,8 +84,7 @@ Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per r
 
 
 <meta itemprop="name" content="Appiccicare una descrizione ad un elemento">
-<meta itemprop="description" content="Un attributo che ci può levare d&rsquo;impaccio in alcune situazioni spinose.
-
+<meta itemprop="description" content="Un trucchetto che ci può levare d&rsquo;impaccio in alcune situazioni spinose.
 Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.
 
 ">
@@ -95,15 +92,14 @@ Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per r
 
 <meta itemprop="datePublished" content="2018-08-15T16:15:42&#43;02:00" />
 <meta itemprop="dateModified" content="2018-08-15T16:15:42&#43;02:00" />
-<meta itemprop="wordCount" content="275">
+<meta itemprop="wordCount" content="378">
 
 
 
-<meta itemprop="keywords" content="aria-describedby," />
+<meta itemprop="keywords" content="aria-describedby,etichette,form,WAI-ARIA," />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Appiccicare una descrizione ad un elemento"/>
-<meta name="twitter:description" content="Un attributo che ci può levare d&rsquo;impaccio in alcune situazioni spinose.
-
+<meta name="twitter:description" content="Un trucchetto che ci può levare d&rsquo;impaccio in alcune situazioni spinose.
 Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.
 
 "/>
@@ -318,7 +314,7 @@ if (!doNotTrack) {
             <a href="https://mignamis.github.io/categories/articoli/"> articoli </a>
             
           </div>
-        <span class="more-meta"> 275 parole </span>
+        <span class="more-meta"> 378 parole </span>
         <span class="more-meta"> 2 min di lettura </span>
       </div>
     </header>
@@ -332,7 +328,7 @@ if (!doNotTrack) {
 <ul>
 <li>
 <ul>
-<li><a href="#posso-usare-un-elemento-che-è-nascosto">Posso usare un elemento che è nascosto?</a></li>
+<li><a href="#posso-usare-un-elemento-nascosto-per-la-descrizione">Posso usare un elemento nascosto per la descrizione?</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -341,9 +337,8 @@ if (!doNotTrack) {
 
     
     <div class="post-content">
-      <p>Un attributo che ci può levare d&rsquo;impaccio in alcune situazioni spinose.</p>
-
-<p>Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.</p>
+      <p>Un trucchetto che ci può levare d&rsquo;impaccio in alcune situazioni spinose.
+Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.</p>
 
 <p></p>
 
@@ -354,14 +349,28 @@ Per motivi di design questi vincoli sono nascosti all&rsquo;utente e appaiono in
 
 <ul>
 <li>Usare un testo visibile solo agli screen reader messo prima del campo per spiegare come deve essere composta la password, perché l&rsquo;utente salta da un campo all&rsquo;altro e non può leggerlo.</li>
-<li>Inserire la spiegazione nell&rsquo;etichetta del campo, perché la renderebbe verbosa e poco estetica.</li>
+<li>Inserire la spiegazione nell&rsquo;etichetta visibile del campo, perché la renderebbe verbosa e poco estetica.</li>
 <li>Utilizzare il <em>placeholder</em>, perché oltre a non essere esteticamente compatibile, può non essere annunciato correttamente dalla sintesi vocale.</li>
 </ul>
 
-<p>Fra tutte le soluzioni che si potrebbero adottare, quella che propongo è l&rsquo;attributo <strong>aria-describedby</strong>.</p>
+<p>Abbiamo visto in questo
+<a href="https://mignamis.github.io/post/articoli/sovrascrivere-etichette-con-la-forza/">articolo su aria-label</a>
+come è possibile sovrascrivere un&rsquo;etichetta.
+In questo caso, però, abbiamo già tutto quello che ci serve nella pagina e dobbiamo solo informare le tecnologie ausiliarie su dove andare a prendere le informazioni.</p>
 
-<p>L&rsquo;attributo <em>aria-describedby</em> permette di aggiungere una descrizione all&rsquo;elemento corrente, in modo che sia annunciata subito dopo l&rsquo;etichetta dell&rsquo;elemento stesso.
-<em>Aria-describedby</em> contiene la referenza (id) di un elemento, il cui testo è usato per costruire la descrizione.</p>
+<p>Ecco come viene annunciato il campo dallo screen reader quando è selezionato.</p>
+
+<blockquote>
+<p>Campo password</p>
+</blockquote>
+
+<p>Le istruzioni del fumetto su come deve essere la password sono purtroppo ignorate.</p>
+
+<p>Come soluzione per informare l&rsquo;utente propongo l&rsquo;attributo <strong>aria-describedby</strong>.
+Esso permette di aggiungere una descrizione all&rsquo;elemento: quando questo è selezionato dall&rsquo;utente, viene annunciata prima la sua etichetta testuale, poi la descrizione che abbiamo associato.</p>
+
+<p>Per la descrizione, però, non possiamo usare un testo.
+Dobbiamo invece referenziare attraverso un <strong>id</strong> un altro elemento della pagina.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code class="language-html" data-lang="html"><span class="lnt">1
@@ -374,13 +383,16 @@ Per motivi di design questi vincoli sono nascosti all&rsquo;utente e appaiono in
 <span class="p">&lt;</span><span class="nt">p</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;fumetto&#34;</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;fumetto-password&#34;</span><span class="p">&gt;</span>Lunghezza minima 8 caratteri, simboli consentiti - e _<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span></code></pre></td></tr></table>
 </div>
 </div>
-<p>Quando il cursore entra nel campo, viene per esempio annunciato:</p>
+<p>Il fumetto viene mostrato tramite uno script all&rsquo;utente.
+Siccome possiede un id lo possiamo anche referenziare con <em>aria-describedby</em>, in modo che il suo contenuto sia letto insieme all&rsquo;etichetta del campo.</p>
+
+<p>Ecco come appare quindi il nostro campo password ad un utente non-vedente.</p>
 
 <blockquote>
 <p>Password campo Lunghezza minima 8 caratteri simboli consentiti trattino e trattino basso</p>
 </blockquote>
 
-<h2 id="posso-usare-un-elemento-che-è-nascosto">Posso usare un elemento che è nascosto?</h2>
+<h2 id="posso-usare-un-elemento-nascosto-per-la-descrizione">Posso usare un elemento nascosto per la descrizione?</h2>
 
 <p>Sì, anche se l&rsquo;elemento è reso invisibile tramite CSS può essere comunque raggiunto ed utilizzato per la descrizione.</p>
 
@@ -404,7 +416,7 @@ Per motivi di design questi vincoli sono nascosti all&rsquo;utente e appaiono in
   </p>
   <p class="copyright-item">
     <span class="item-title">Modificato</span>
-    <span class="item-content">2018-08-15</span>
+    <span class="item-content">2018-08-18</span>
   </p>
   
   <p class="copyright-item">
@@ -419,6 +431,9 @@ Per motivi di design questi vincoli sono nascosti all&rsquo;utente e appaiono in
     <footer class="post-footer">
       <div class="post-tags">
           <a href="https://mignamis.github.io/tags/aria-describedby/">aria-describedby</a>
+          <a href="https://mignamis.github.io/tags/etichette/">etichette</a>
+          <a href="https://mignamis.github.io/tags/form/">form</a>
+          <a href="https://mignamis.github.io/tags/wai-aria/">WAI-ARIA</a>
           
         </div>
 

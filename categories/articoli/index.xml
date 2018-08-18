@@ -18,9 +18,8 @@
       <pubDate>Wed, 15 Aug 2018 16:15:42 +0200</pubDate>
       
       <guid>https://mignamis.github.io/post/articoli/aria-describedby/</guid>
-      <description>&lt;p&gt;Un attributo che ci può levare d&amp;rsquo;impaccio in alcune situazioni spinose.&lt;/p&gt;
-
-&lt;p&gt;Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.&lt;/p&gt;
+      <description>&lt;p&gt;Un trucchetto che ci può levare d&amp;rsquo;impaccio in alcune situazioni spinose.
+Per esempio quando si tratta di aggiungere una descrizione ad un elemento, per renderlo accessibile, ma in circostanze dove lo spazio o il contesto non lo consentono.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -31,7 +30,7 @@
       <pubDate>Wed, 15 Aug 2018 16:13:40 +0200</pubDate>
       
       <guid>https://mignamis.github.io/post/articoli/effetto-testo-grande/</guid>
-      <description>&lt;p&gt;Ecco qualche buona ragione per evitare di utilizzare i tag heading per ottenere un effetto di &amp;ldquo;testo più grande&amp;rdquo;.&lt;/p&gt;
+      <description>&lt;p&gt;Ecco una buona ragione per evitare di utilizzare i tag heading per ottenere un effetto di &amp;ldquo;testo più grande&amp;rdquo;.&lt;/p&gt;
 
 &lt;p&gt;Ammettiamolo, ogni tanto abbiamo riciclato un H4 o un H5 per dare al volo uno stile ad un elemento di contorno, oppure per far risaltare un frammento di testo.
 Ma perché è una cattiva idea?&lt;/p&gt;

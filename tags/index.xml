@@ -31,9 +31,18 @@
     </item>
     
     <item>
+      <title>Etichette</title>
+      <link>https://mignamis.github.io/tags/etichette/</link>
+      <pubDate>Wed, 15 Aug 2018 16:15:42 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/tags/etichette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Form</title>
       <link>https://mignamis.github.io/tags/form/</link>
-      <pubDate>Mon, 14 May 2018 16:11:34 +0200</pubDate>
+      <pubDate>Wed, 15 Aug 2018 16:15:42 +0200</pubDate>
       
       <guid>https://mignamis.github.io/tags/form/</guid>
       <description></description>
@@ -153,6 +162,15 @@
       <pubDate>Mon, 14 May 2018 16:11:34 +0200</pubDate>
       
       <guid>https://mignamis.github.io/tags/validazione-form/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wai Aria</title>
+      <link>https://mignamis.github.io/tags/wai-aria/</link>
+      <pubDate>Wed, 15 Aug 2018 16:15:42 +0200</pubDate>
+      
+      <guid>https://mignamis.github.io/tags/wai-aria/</guid>
       <description></description>
     </item>
     
